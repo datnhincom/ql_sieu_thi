@@ -1,0 +1,1954 @@
+Order ID,Items,Item_Count
+OD-000001,"[np.str_('Paper'), np.str_('Supplies')]",2
+OD-000002,"[np.str_('Accessories'), np.str_('Machines')]",2
+OD-000003,"[np.str_('Accessories'), np.str_('Supplies'), np.str_('Furnishings')]",3
+OD-000004,"[np.str_('Binders'), np.str_('Labels'), np.str_('Phones'), np.str_('Furnishings')]",4
+OD-000005,"[np.str_('Copiers'), np.str_('Phones')]",2
+OD-000006,"[np.str_('Bookcases'), np.str_('Furnishings')]",2
+OD-000007,"[np.str_('Paper'), np.str_('Binders'), np.str_('Machines'), np.str_('Storage'), np.str_('Supplies')]",5
+OD-000008,"[np.str_('Phones'), np.str_('Furnishings')]",2
+OD-000009,"[np.str_('Bookcases'), np.str_('Phones')]",2
+OD-000010,"[np.str_('Bookcases'), np.str_('Storage')]",2
+OD-000011,"[np.str_('Phones'), np.str_('Paper'), np.str_('Bookcases')]",3
+OD-000012,"[np.str_('Phones'), np.str_('Chairs'), np.str_('Tables'), np.str_('Furnishings'), np.str_('Supplies')]",5
+OD-000013,"[np.str_('Labels'), np.str_('Storage'), np.str_('Binders')]",3
+OD-000014,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Furnishings')]",3
+OD-000015,"[np.str_('Bookcases'), np.str_('Storage')]",2
+OD-000016,"[np.str_('Binders'), np.str_('Storage'), np.str_('Phones'), np.str_('Machines')]",4
+OD-000017,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Binders'), np.str_('Accessories')]",4
+OD-000019,"[np.str_('Phones'), np.str_('Chairs'), np.str_('Binders'), np.str_('Copiers'), np.str_('Storage')]",5
+OD-000020,"[np.str_('Labels'), np.str_('Tables')]",2
+OD-000021,"[np.str_('Labels'), np.str_('Binders'), np.str_('Storage'), np.str_('Machines')]",4
+OD-000022,"[np.str_('Copiers'), np.str_('Furnishings')]",2
+OD-000023,"[np.str_('Accessories'), np.str_('Copiers')]",2
+OD-000024,"[np.str_('Labels'), np.str_('Binders'), np.str_('Storage'), np.str_('Bookcases')]",4
+OD-000025,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Storage')]",3
+OD-000026,"[np.str_('Phones'), np.str_('Storage')]",2
+OD-000027,"[np.str_('Tables'), np.str_('Bookcases'), np.str_('Supplies'), np.str_('Chairs')]",4
+OD-000028,"[np.str_('Copiers'), np.str_('Supplies'), np.str_('Furnishings')]",3
+OD-000029,"[np.str_('Bookcases'), np.str_('Storage'), np.str_('Accessories'), np.str_('Chairs')]",4
+OD-000030,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Supplies'), np.str_('Furnishings')]",4
+OD-000031,"[np.str_('Tables'), np.str_('Storage'), np.str_('Chairs')]",3
+OD-000032,"[np.str_('Copiers'), np.str_('Chairs')]",2
+OD-000033,"[np.str_('Accessories'), np.str_('Chairs'), np.str_('Bookcases'), np.str_('Tables'), np.str_('Supplies')]",5
+OD-000034,"[np.str_('Storage'), np.str_('Phones'), np.str_('Supplies'), np.str_('Chairs')]",4
+OD-000035,"[np.str_('Tables'), np.str_('Chairs')]",2
+OD-000036,"[np.str_('Bookcases'), np.str_('Copiers'), np.str_('Phones')]",3
+OD-000037,"[np.str_('Paper'), np.str_('Accessories'), np.str_('Chairs'), np.str_('Bookcases'), np.str_('Storage')]",5
+OD-000038,"[np.str_('Chairs'), np.str_('Binders'), np.str_('Copiers'), np.str_('Furnishings')]",4
+OD-000039,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Accessories'), np.str_('Furnishings')]",4
+OD-000040,"[np.str_('Paper'), np.str_('Phones')]",2
+OD-000041,"[np.str_('Furnishings'), np.str_('Accessories'), np.str_('Tables'), np.str_('Chairs')]",4
+OD-000042,"[np.str_('Bookcases'), np.str_('Furnishings')]",2
+OD-000043,"[np.str_('Paper'), np.str_('Phones')]",2
+OD-000044,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Furnishings')]",3
+OD-000045,"[np.str_('Accessories'), np.str_('Machines')]",2
+OD-000046,"[np.str_('Supplies'), np.str_('Copiers'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-000047,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Phones'), np.str_('Accessories')]",4
+OD-000048,"[np.str_('Tables'), np.str_('Furnishings')]",2
+OD-000049,"[np.str_('Furnishings'), np.str_('Accessories'), np.str_('Supplies'), np.str_('Chairs')]",4
+OD-000050,"[np.str_('Accessories'), np.str_('Furnishings')]",2
+OD-000051,"[np.str_('Tables'), np.str_('Machines')]",2
+OD-000052,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Furnishings')]",3
+OD-000053,"[np.str_('Accessories'), np.str_('Paper'), np.str_('Chairs'), np.str_('Furnishings'), np.str_('Supplies')]",5
+OD-000054,"[np.str_('Paper'), np.str_('Phones'), np.str_('Accessories'), np.str_('Furnishings')]",4
+OD-000055,"[np.str_('Accessories'), np.str_('Chairs'), np.str_('Machines'), np.str_('Copiers'), np.str_('Storage')]",5
+OD-000056,"[np.str_('Storage'), np.str_('Phones')]",2
+OD-000057,"[np.str_('Phones'), np.str_('Paper'), np.str_('Storage'), np.str_('Supplies')]",4
+OD-000058,"[np.str_('Tables'), np.str_('Chairs')]",2
+OD-000059,"[np.str_('Bookcases'), np.str_('Tables')]",2
+OD-000060,"[np.str_('Phones'), np.str_('Labels'), np.str_('Binders'), np.str_('Machines'), np.str_('Storage')]",5
+OD-000061,"[np.str_('Bookcases'), np.str_('Tables')]",2
+OD-000062,"[np.str_('Tables'), np.str_('Copiers')]",2
+OD-000064,"[np.str_('Tables'), np.str_('Paper'), np.str_('Machines'), np.str_('Accessories')]",4
+OD-000065,"[np.str_('Bookcases'), np.str_('Paper'), np.str_('Machines'), np.str_('Accessories')]",4
+OD-000066,"[np.str_('Labels'), np.str_('Bookcases'), np.str_('Paper'), np.str_('Furnishings')]",4
+OD-000067,"[np.str_('Binders'), np.str_('Paper'), np.str_('Machines')]",3
+OD-000068,"[np.str_('Binders'), np.str_('Accessories'), np.str_('Phones')]",3
+OD-000069,"[np.str_('Labels'), np.str_('Chairs')]",2
+OD-000070,"[np.str_('Bookcases'), np.str_('Copiers'), np.str_('Accessories')]",3
+OD-000071,"[np.str_('Phones'), np.str_('Copiers'), np.str_('Storage')]",3
+OD-000072,"[np.str_('Labels'), np.str_('Supplies'), np.str_('Chairs')]",3
+OD-000073,"[np.str_('Labels'), np.str_('Tables'), np.str_('Supplies'), np.str_('Accessories')]",4
+OD-000074,"[np.str_('Accessories'), np.str_('Storage'), np.str_('Supplies')]",3
+OD-000075,"[np.str_('Labels'), np.str_('Accessories'), np.str_('Paper'), np.str_('Chairs')]",4
+OD-000076,"[np.str_('Labels'), np.str_('Bookcases'), np.str_('Paper'), np.str_('Binders')]",4
+OD-000077,"[np.str_('Storage'), np.str_('Supplies'), np.str_('Chairs')]",3
+OD-000078,"[np.str_('Copiers'), np.str_('Phones')]",2
+OD-000079,"[np.str_('Bookcases'), np.str_('Phones'), np.str_('Accessories')]",3
+OD-000080,"[np.str_('Labels'), np.str_('Machines')]",2
+OD-000081,"[np.str_('Bookcases'), np.str_('Supplies')]",2
+OD-000082,"[np.str_('Bookcases'), np.str_('Phones'), np.str_('Accessories')]",3
+OD-000083,"[np.str_('Bookcases'), np.str_('Tables')]",2
+OD-000084,"[np.str_('Storage'), np.str_('Phones'), np.str_('Supplies'), np.str_('Furnishings')]",4
+OD-000085,"[np.str_('Binders'), np.str_('Paper'), np.str_('Phones'), np.str_('Tables')]",4
+OD-000086,"[np.str_('Bookcases'), np.str_('Furnishings')]",2
+OD-000087,"[np.str_('Bookcases'), np.str_('Storage'), np.str_('Accessories')]",3
+OD-000088,"[np.str_('Tables'), np.str_('Storage'), np.str_('Accessories'), np.str_('Chairs')]",4
+OD-000089,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-000090,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Chairs'), np.str_('Copiers'), np.str_('Storage')]",5
+OD-000091,"[np.str_('Furnishings'), np.str_('Tables'), np.str_('Chairs')]",3
+OD-000092,"[np.str_('Binders'), np.str_('Bookcases'), np.str_('Tables'), np.str_('Chairs')]",4
+OD-000093,"[np.str_('Labels'), np.str_('Tables'), np.str_('Chairs')]",3
+OD-000094,"[np.str_('Labels'), np.str_('Binders'), np.str_('Tables'), np.str_('Furnishings')]",4
+OD-000095,"[np.str_('Copiers'), np.str_('Machines'), np.str_('Furnishings')]",3
+OD-000096,"[np.str_('Tables'), np.str_('Furnishings')]",2
+OD-000097,"[np.str_('Copiers'), np.str_('Phones'), np.str_('Chairs')]",3
+OD-000098,"[np.str_('Labels'), np.str_('Storage'), np.str_('Chairs')]",3
+OD-000099,"[np.str_('Storage'), np.str_('Machines')]",2
+OD-000100,"[np.str_('Binders'), np.str_('Storage'), np.str_('Furnishings')]",3
+OD-000101,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Storage')]",3
+OD-000102,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Phones')]",3
+OD-000103,"[np.str_('Labels'), np.str_('Copiers')]",2
+OD-000104,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Machines')]",3
+OD-000105,"[np.str_('Accessories'), np.str_('Furnishings')]",2
+OD-000106,"[np.str_('Labels'), np.str_('Binders'), np.str_('Supplies')]",3
+OD-000107,"[np.str_('Machines'), np.str_('Paper'), np.str_('Supplies'), np.str_('Furnishings')]",4
+OD-000108,"[np.str_('Copiers'), np.str_('Phones')]",2
+OD-000109,"[np.str_('Copiers'), np.str_('Storage'), np.str_('Supplies')]",3
+OD-000110,"[np.str_('Tables'), np.str_('Phones'), np.str_('Machines'), np.str_('Accessories')]",4
+OD-000111,"[np.str_('Accessories'), np.str_('Binders'), np.str_('Bookcases'), np.str_('Copiers'), np.str_('Storage')]",5
+OD-000112,"[np.str_('Paper'), np.str_('Phones'), np.str_('Accessories')]",3
+OD-000113,"[np.str_('Accessories'), np.str_('Paper'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-000114,"[np.str_('Storage'), np.str_('Machines')]",2
+OD-000115,"[np.str_('Paper'), np.str_('Phones'), np.str_('Supplies'), np.str_('Furnishings')]",4
+OD-000116,"[np.str_('Tables'), np.str_('Furnishings')]",2
+OD-000119,"[np.str_('Paper'), np.str_('Tables'), np.str_('Furnishings')]",3
+OD-000120,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Supplies'), np.str_('Furnishings')]",4
+OD-000121,"[np.str_('Tables'), np.str_('Binders'), np.str_('Supplies'), np.str_('Chairs')]",4
+OD-000122,"[np.str_('Chairs'), np.str_('Copiers'), np.str_('Furnishings')]",3
+OD-000123,"[np.str_('Bookcases'), np.str_('Storage')]",2
+OD-000124,"[np.str_('Tables'), np.str_('Binders'), np.str_('Machines')]",3
+OD-000125,"[np.str_('Labels'), np.str_('Tables')]",2
+OD-000126,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Tables'), np.str_('Furnishings')]",4
+OD-000127,"[np.str_('Copiers'), np.str_('Storage')]",2
+OD-000128,"[np.str_('Labels'), np.str_('Machines'), np.str_('Tables')]",3
+OD-000129,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Furnishings')]",3
+OD-000130,"[np.str_('Labels'), np.str_('Bookcases'), np.str_('Tables'), np.str_('Copiers'), np.str_('Supplies')]",5
+OD-000131,"[np.str_('Bookcases'), np.str_('Copiers'), np.str_('Phones'), np.str_('Supplies')]",4
+OD-000132,"[np.str_('Labels'), np.str_('Paper'), np.str_('Tables')]",3
+OD-000133,"[np.str_('Accessories'), np.str_('Supplies')]",2
+OD-000134,"[np.str_('Accessories'), np.str_('Binders'), np.str_('Tables'), np.str_('Chairs')]",4
+OD-000135,"[np.str_('Tables'), np.str_('Supplies')]",2
+OD-000136,"[np.str_('Furnishings'), np.str_('Labels'), np.str_('Binders'), np.str_('Chairs')]",4
+OD-000137,"[np.str_('Paper'), np.str_('Phones'), np.str_('Chairs'), np.str_('Labels'), np.str_('Bookcases')]",5
+OD-000138,"[np.str_('Labels'), np.str_('Binders'), np.str_('Tables'), np.str_('Furnishings'), np.str_('Storage')]",5
+OD-000139,"[np.str_('Accessories'), np.str_('Binders')]",2
+OD-000140,"[np.str_('Bookcases'), np.str_('Storage'), np.str_('Phones'), np.str_('Supplies')]",4
+OD-000141,"[np.str_('Tables'), np.str_('Phones'), np.str_('Chairs')]",3
+OD-000142,"[np.str_('Tables'), np.str_('Paper')]",2
+OD-000143,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Tables')]",3
+OD-000144,"[np.str_('Labels'), np.str_('Binders'), np.str_('Supplies')]",3
+OD-000145,"[np.str_('Phones'), np.str_('Accessories'), np.str_('Storage'), np.str_('Chairs')]",4
+OD-000146,"[np.str_('Furnishings'), np.str_('Phones'), np.str_('Chairs')]",3
+OD-000147,"[np.str_('Tables'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-000148,"[np.str_('Labels'), np.str_('Bookcases'), np.str_('Binders'), np.str_('Supplies')]",4
+OD-000149,"[np.str_('Accessories'), np.str_('Chairs'), np.str_('Machines'), np.str_('Copiers'), np.str_('Storage')]",5
+OD-000150,"[np.str_('Machines'), np.str_('Furnishings')]",2
+OD-000151,"[np.str_('Storage'), np.str_('Machines'), np.str_('Furnishings')]",3
+OD-000152,"[np.str_('Labels'), np.str_('Storage'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-000153,"[np.str_('Tables'), np.str_('Copiers')]",2
+OD-000154,"[np.str_('Bookcases'), np.str_('Copiers'), np.str_('Furnishings')]",3
+OD-000155,"[np.str_('Labels'), np.str_('Copiers')]",2
+OD-000156,"[np.str_('Bookcases'), np.str_('Accessories'), np.str_('Chairs')]",3
+OD-000157,"[np.str_('Machines'), np.str_('Binders'), np.str_('Supplies'), np.str_('Chairs')]",4
+OD-000158,"[np.str_('Labels'), np.str_('Binders'), np.str_('Supplies')]",3
+OD-000159,"[np.str_('Accessories'), np.str_('Storage')]",2
+OD-000160,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Bookcases'), np.str_('Furnishings')]",4
+OD-000161,"[np.str_('Bookcases'), np.str_('Binders'), np.str_('Supplies'), np.str_('Chairs')]",4
+OD-000162,"[np.str_('Bookcases'), np.str_('Phones')]",2
+OD-000163,"[np.str_('Bookcases'), np.str_('Paper'), np.str_('Binders'), np.str_('Chairs')]",4
+OD-000164,"[np.str_('Tables'), np.str_('Copiers')]",2
+OD-000165,"[np.str_('Bookcases'), np.str_('Storage'), np.str_('Machines'), np.str_('Tables')]",4
+OD-000166,"[np.str_('Bookcases'), np.str_('Binders'), np.str_('Supplies')]",3
+OD-000167,"[np.str_('Storage'), np.str_('Phones'), np.str_('Machines')]",3
+OD-000168,"[np.str_('Binders'), np.str_('Bookcases')]",2
+OD-000169,"[np.str_('Tables'), np.str_('Phones'), np.str_('Chairs')]",3
+OD-000170,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Bookcases'), np.str_('Furnishings'), np.str_('Copiers')]",5
+OD-000171,"[np.str_('Accessories'), np.str_('Furnishings')]",2
+OD-000172,"[np.str_('Accessories'), np.str_('Storage'), np.str_('Tables')]",3
+OD-000173,"[np.str_('Accessories'), np.str_('Binders'), np.str_('Labels'), np.str_('Bookcases'), np.str_('Storage')]",5
+OD-000174,"[np.str_('Paper'), np.str_('Phones'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Furnishings')]",5
+OD-000175,"[np.str_('Accessories'), np.str_('Supplies'), np.str_('Tables')]",3
+OD-000176,"[np.str_('Accessories'), np.str_('Chairs'), np.str_('Labels'), np.str_('Bookcases'), np.str_('Copiers')]",5
+OD-000177,"[np.str_('Tables'), np.str_('Copiers')]",2
+OD-000178,"[np.str_('Binders'), np.str_('Tables'), np.str_('Storage'), np.str_('Accessories')]",4
+OD-000179,"[np.str_('Bookcases'), np.str_('Copiers'), np.str_('Storage'), np.str_('Supplies')]",4
+OD-000180,"[np.str_('Chairs'), np.str_('Labels'), np.str_('Tables'), np.str_('Furnishings'), np.str_('Copiers')]",5
+OD-000181,"[np.str_('Labels'), np.str_('Binders'), np.str_('Machines'), np.str_('Tables')]",4
+OD-000182,"[np.str_('Machines'), np.str_('Accessories'), np.str_('Supplies')]",3
+OD-000183,"[np.str_('Paper'), np.str_('Supplies'), np.str_('Furnishings')]",3
+OD-000184,"[np.str_('Binders'), np.str_('Bookcases')]",2
+OD-000185,"[np.str_('Accessories'), np.str_('Machines'), np.str_('Tables')]",3
+OD-000186,"[np.str_('Binders'), np.str_('Copiers')]",2
+OD-000187,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-000188,"[np.str_('Accessories'), np.str_('Chairs')]",2
+OD-000189,"[np.str_('Binders'), np.str_('Accessories'), np.str_('Bookcases')]",3
+OD-000190,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Storage'), np.str_('Supplies')]",4
+OD-000191,"[np.str_('Phones'), np.str_('Accessories'), np.str_('Storage')]",3
+OD-000192,"[np.str_('Labels'), np.str_('Phones')]",2
+OD-000193,"[np.str_('Chairs'), np.str_('Binders'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Storage')]",5
+OD-000194,"[np.str_('Storage'), np.str_('Chairs')]",2
+OD-000195,"[np.str_('Accessories'), np.str_('Paper'), np.str_('Chairs'), np.str_('Machines'), np.str_('Furnishings')]",5
+OD-000196,"[np.str_('Bookcases'), np.str_('Copiers')]",2
+OD-000197,"[np.str_('Furnishings'), np.str_('Tables'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-000198,"[np.str_('Machines'), np.str_('Supplies')]",2
+OD-000199,"[np.str_('Furnishings'), np.str_('Tables'), np.str_('Paper'), np.str_('Chairs')]",4
+OD-000200,"[np.str_('Tables'), np.str_('Supplies')]",2
+OD-000201,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Binders'), np.str_('Supplies')]",4
+OD-000202,"[np.str_('Copiers'), np.str_('Furnishings')]",2
+OD-000203,"[np.str_('Tables'), np.str_('Copiers')]",2
+OD-000204,"[np.str_('Accessories'), np.str_('Storage'), np.str_('Machines')]",3
+OD-000205,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Storage'), np.str_('Machines')]",4
+OD-000206,"[np.str_('Machines'), np.str_('Accessories'), np.str_('Supplies'), np.str_('Labels')]",4
+OD-000207,"[np.str_('Labels'), np.str_('Storage'), np.str_('Binders'), np.str_('Furnishings')]",4
+OD-000208,"[np.str_('Paper'), np.str_('Copiers')]",2
+OD-000209,"[np.str_('Paper'), np.str_('Phones'), np.str_('Tables')]",3
+OD-000210,"[np.str_('Labels'), np.str_('Phones'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-000211,"[np.str_('Furnishings'), np.str_('Supplies'), np.str_('Chairs')]",3
+OD-000212,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Bookcases')]",3
+OD-000213,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Furnishings')]",3
+OD-000214,"[np.str_('Binders'), np.str_('Copiers')]",2
+OD-000215,"[np.str_('Bookcases'), np.str_('Paper'), np.str_('Binders'), np.str_('Machines')]",4
+OD-000216,"[np.str_('Tables'), np.str_('Paper'), np.str_('Accessories'), np.str_('Furnishings')]",4
+OD-000217,"[np.str_('Tables'), np.str_('Bookcases'), np.str_('Machines')]",3
+OD-000218,"[np.str_('Furnishings'), np.str_('Chairs')]",2
+OD-000219,"[np.str_('Paper'), np.str_('Storage'), np.str_('Supplies')]",3
+OD-000220,"[np.str_('Bookcases'), np.str_('Accessories'), np.str_('Supplies'), np.str_('Tables')]",4
+OD-000221,"[np.str_('Binders'), np.str_('Paper'), np.str_('Bookcases'), np.str_('Supplies')]",4
+OD-000222,"[np.str_('Labels'), np.str_('Copiers')]",2
+OD-000223,"[np.str_('Bookcases'), np.str_('Storage')]",2
+OD-000224,"[np.str_('Labels'), np.str_('Paper'), np.str_('Tables')]",3
+OD-000225,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Bookcases')]",3
+OD-000226,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Storage')]",3
+OD-000227,"[np.str_('Bookcases'), np.str_('Paper'), np.str_('Chairs')]",3
+OD-000228,"[np.str_('Storage'), np.str_('Phones')]",2
+OD-000229,"[np.str_('Accessories'), np.str_('Tables'), np.str_('Furnishings')]",3
+OD-000230,"[np.str_('Machines'), np.str_('Labels'), np.str_('Phones'), np.str_('Supplies')]",4
+OD-000231,"[np.str_('Phones'), np.str_('Chairs'), np.str_('Tables'), np.str_('Binders'), np.str_('Copiers')]",5
+OD-000232,"[np.str_('Accessories'), np.str_('Binders'), np.str_('Machines')]",3
+OD-000233,"[np.str_('Chairs'), np.str_('Copiers'), np.str_('Furnishings')]",3
+OD-000234,"[np.str_('Accessories'), np.str_('Supplies')]",2
+OD-000235,"[np.str_('Binders'), np.str_('Bookcases')]",2
+OD-000236,"[np.str_('Machines'), np.str_('Labels'), np.str_('Supplies'), np.str_('Accessories')]",4
+OD-000237,"[np.str_('Accessories'), np.str_('Tables'), np.str_('Bookcases'), np.str_('Copiers'), np.str_('Storage')]",5
+OD-000238,"[np.str_('Accessories'), np.str_('Paper'), np.str_('Chairs'), np.str_('Labels'), np.str_('Storage')]",5
+OD-000239,"[np.str_('Machines'), np.str_('Chairs')]",2
+OD-000240,"[np.str_('Paper'), np.str_('Machines')]",2
+OD-000241,"[np.str_('Bookcases'), np.str_('Binders'), np.str_('Tables'), np.str_('Chairs')]",4
+OD-000242,"[np.str_('Binders'), np.str_('Machines')]",2
+OD-000243,"[np.str_('Furnishings'), np.str_('Machines'), np.str_('Chairs')]",3
+OD-000244,"[np.str_('Furnishings'), np.str_('Tables'), np.str_('Supplies'), np.str_('Chairs')]",4
+OD-000245,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Chairs')]",3
+OD-000246,"[np.str_('Machines'), np.str_('Copiers'), np.str_('Phones'), np.str_('Supplies')]",4
+OD-000247,"[np.str_('Phones'), np.str_('Chairs')]",2
+OD-000248,"[np.str_('Paper'), np.str_('Phones'), np.str_('Machines'), np.str_('Accessories')]",4
+OD-000249,"[np.str_('Accessories'), np.str_('Bookcases'), np.str_('Tables')]",3
+OD-000250,"[np.str_('Labels'), np.str_('Machines'), np.str_('Furnishings')]",3
+OD-000251,"[np.str_('Labels'), np.str_('Paper'), np.str_('Bookcases')]",3
+OD-000252,"[np.str_('Copiers'), np.str_('Bookcases'), np.str_('Paper'), np.str_('Chairs')]",4
+OD-000253,"[np.str_('Bookcases'), np.str_('Supplies')]",2
+OD-000254,"[np.str_('Accessories'), np.str_('Binders'), np.str_('Machines'), np.str_('Copiers'), np.str_('Supplies')]",5
+OD-000255,"[np.str_('Bookcases'), np.str_('Copiers')]",2
+OD-000256,"[np.str_('Bookcases'), np.str_('Tables')]",2
+OD-000257,"[np.str_('Chairs'), np.str_('Bookcases'), np.str_('Copiers'), np.str_('Storage'), np.str_('Supplies')]",5
+OD-000258,"[np.str_('Bookcases'), np.str_('Machines')]",2
+OD-000259,"[np.str_('Bookcases'), np.str_('Copiers'), np.str_('Storage')]",3
+OD-000260,"[np.str_('Labels'), np.str_('Binders'), np.str_('Machines')]",3
+OD-000261,"[np.str_('Paper'), np.str_('Storage'), np.str_('Accessories')]",3
+OD-000262,"[np.str_('Tables'), np.str_('Binders'), np.str_('Chairs')]",3
+OD-000263,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Storage')]",3
+OD-000264,"[np.str_('Accessories'), np.str_('Chairs'), np.str_('Labels'), np.str_('Machines'), np.str_('Furnishings')]",5
+OD-000265,"[np.str_('Bookcases'), np.str_('Furnishings')]",2
+OD-000266,"[np.str_('Phones'), np.str_('Chairs'), np.str_('Labels'), np.str_('Bookcases'), np.str_('Copiers')]",5
+OD-000268,"[np.str_('Bookcases'), np.str_('Copiers'), np.str_('Binders'), np.str_('Supplies')]",4
+OD-000269,"[np.str_('Accessories'), np.str_('Furnishings')]",2
+OD-000270,"[np.str_('Accessories'), np.str_('Chairs')]",2
+OD-000271,"[np.str_('Tables'), np.str_('Machines')]",2
+OD-000272,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Accessories'), np.str_('Chairs')]",4
+OD-000273,"[np.str_('Phones'), np.str_('Paper'), np.str_('Binders'), np.str_('Furnishings')]",4
+OD-000274,"[np.str_('Supplies'), np.str_('Binders'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-000275,"[np.str_('Paper'), np.str_('Supplies')]",2
+OD-000276,"[np.str_('Supplies'), np.str_('Paper'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-000277,"[np.str_('Phones'), np.str_('Chairs'), np.str_('Machines'), np.str_('Copiers'), np.str_('Supplies')]",5
+OD-000278,"[np.str_('Supplies'), np.str_('Furnishings')]",2
+OD-000279,"[np.str_('Phones'), np.str_('Machines'), np.str_('Furnishings')]",3
+OD-000280,"[np.str_('Labels'), np.str_('Machines')]",2
+OD-000281,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Furnishings')]",3
+OD-000282,"[np.str_('Binders'), np.str_('Phones'), np.str_('Machines'), np.str_('Tables')]",4
+OD-000283,"[np.str_('Accessories'), np.str_('Bookcases')]",2
+OD-000284,"[np.str_('Binders'), np.str_('Paper'), np.str_('Phones')]",3
+OD-000285,"[np.str_('Phones'), np.str_('Machines')]",2
+OD-000286,"[np.str_('Tables'), np.str_('Supplies'), np.str_('Furnishings')]",3
+OD-000287,"[np.str_('Binders'), np.str_('Storage'), np.str_('Machines'), np.str_('Tables')]",4
+OD-000288,"[np.str_('Accessories'), np.str_('Copiers')]",2
+OD-000289,"[np.str_('Chairs'), np.str_('Tables'), np.str_('Storage'), np.str_('Furnishings')]",4
+OD-000290,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Binders'), np.str_('Machines')]",4
+OD-000291,"[np.str_('Accessories'), np.str_('Machines')]",2
+OD-000292,"[np.str_('Paper'), np.str_('Furnishings')]",2
+OD-000293,"[np.str_('Phones'), np.str_('Labels'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Storage')]",5
+OD-000294,"[np.str_('Labels'), np.str_('Paper'), np.str_('Accessories')]",3
+OD-000295,"[np.str_('Accessories'), np.str_('Machines')]",2
+OD-000296,"[np.str_('Tables'), np.str_('Paper'), np.str_('Storage'), np.str_('Machines')]",4
+OD-000297,"[np.str_('Labels'), np.str_('Tables'), np.str_('Phones')]",3
+OD-000298,"[np.str_('Labels'), np.str_('Paper'), np.str_('Tables'), np.str_('Furnishings')]",4
+OD-000299,"[np.str_('Labels'), np.str_('Phones')]",2
+OD-000300,"[np.str_('Labels'), np.str_('Paper'), np.str_('Furnishings')]",3
+OD-000301,"[np.str_('Labels'), np.str_('Binders'), np.str_('Chairs'), np.str_('Furnishings')]",4
+OD-000302,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Storage'), np.str_('Furnishings')]",4
+OD-000303,"[np.str_('Paper'), np.str_('Furnishings')]",2
+OD-000305,"[np.str_('Accessories'), np.str_('Supplies'), np.str_('Tables')]",3
+OD-000306,"[np.str_('Bookcases'), np.str_('Binders'), np.str_('Accessories'), np.str_('Chairs')]",4
+OD-000307,"[np.str_('Phones'), np.str_('Labels'), np.str_('Bookcases'), np.str_('Tables')]",4
+OD-000308,"[np.str_('Chairs'), np.str_('Accessories'), np.str_('Phones'), np.str_('Furnishings')]",4
+OD-000309,"[np.str_('Bookcases'), np.str_('Copiers'), np.str_('Supplies')]",3
+OD-000310,"[np.str_('Machines'), np.str_('Chairs')]",2
+OD-000311,"[np.str_('Tables'), np.str_('Paper'), np.str_('Supplies')]",3
+OD-000312,"[np.str_('Bookcases'), np.str_('Binders'), np.str_('Tables'), np.str_('Furnishings')]",4
+OD-000313,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Phones'), np.str_('Chairs')]",4
+OD-000314,"[np.str_('Paper'), np.str_('Phones'), np.str_('Tables'), np.str_('Bookcases'), np.str_('Furnishings')]",5
+OD-000315,"[np.str_('Paper'), np.str_('Labels'), np.str_('Machines'), np.str_('Storage'), np.str_('Supplies')]",5
+OD-000317,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-000318,"[np.str_('Accessories'), np.str_('Supplies')]",2
+OD-000319,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Storage'), np.str_('Bookcases')]",4
+OD-000320,"[np.str_('Labels'), np.str_('Tables'), np.str_('Furnishings'), np.str_('Copiers'), np.str_('Storage')]",5
+OD-000321,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Machines')]",3
+OD-000322,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Tables'), np.str_('Furnishings')]",4
+OD-000323,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Phones')]",3
+OD-000324,"[np.str_('Binders'), np.str_('Paper'), np.str_('Storage'), np.str_('Supplies')]",4
+OD-000325,"[np.str_('Binders'), np.str_('Phones')]",2
+OD-000327,"[np.str_('Labels'), np.str_('Tables'), np.str_('Copiers')]",3
+OD-000328,"[np.str_('Accessories'), np.str_('Paper'), np.str_('Binders'), np.str_('Furnishings'), np.str_('Supplies')]",5
+OD-000329,"[np.str_('Binders'), np.str_('Bookcases')]",2
+OD-000330,"[np.str_('Labels'), np.str_('Paper'), np.str_('Storage'), np.str_('Chairs')]",4
+OD-000331,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Phones'), np.str_('Machines')]",4
+OD-000332,"[np.str_('Chairs'), np.str_('Phones'), np.str_('Furnishings')]",3
+OD-000333,"[np.str_('Paper'), np.str_('Chairs'), np.str_('Labels'), np.str_('Tables'), np.str_('Storage')]",5
+OD-000334,"[np.str_('Bookcases'), np.str_('Furnishings')]",2
+OD-000335,"[np.str_('Paper'), np.str_('Storage'), np.str_('Bookcases'), np.str_('Supplies')]",4
+OD-000336,"[np.str_('Labels'), np.str_('Storage')]",2
+OD-000337,"[np.str_('Phones'), np.str_('Furnishings')]",2
+OD-000338,"[np.str_('Labels'), np.str_('Storage'), np.str_('Phones'), np.str_('Accessories')]",4
+OD-000339,"[np.str_('Furnishings'), np.str_('Binders'), np.str_('Accessories'), np.str_('Chairs')]",4
+OD-000341,"[np.str_('Storage'), np.str_('Furnishings')]",2
+OD-000342,"[np.str_('Labels'), np.str_('Binders')]",2
+OD-000343,"[np.str_('Labels'), np.str_('Copiers')]",2
+OD-000344,"[np.str_('Copiers'), np.str_('Phones')]",2
+OD-000345,"[np.str_('Labels'), np.str_('Storage')]",2
+OD-000346,"[np.str_('Bookcases'), np.str_('Phones'), np.str_('Furnishings')]",3
+OD-000347,"[np.str_('Chairs'), np.str_('Accessories'), np.str_('Paper'), np.str_('Furnishings')]",4
+OD-000348,"[np.str_('Bookcases'), np.str_('Chairs')]",2
+OD-000349,"[np.str_('Copiers'), np.str_('Phones')]",2
+OD-000350,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Supplies'), np.str_('Furnishings')]",4
+OD-000351,"[np.str_('Binders'), np.str_('Paper')]",2
+OD-000352,"[np.str_('Labels'), np.str_('Binders'), np.str_('Furnishings')]",3
+OD-000353,"[np.str_('Phones'), np.str_('Bookcases'), np.str_('Copiers'), np.str_('Storage')]",4
+OD-000354,"[np.str_('Furnishings'), np.str_('Paper'), np.str_('Supplies'), np.str_('Chairs')]",4
+OD-000355,"[np.str_('Paper'), np.str_('Storage'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-000356,"[np.str_('Binders'), np.str_('Paper'), np.str_('Chairs')]",3
+OD-000357,"[np.str_('Labels'), np.str_('Binders'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Storage')]",5
+OD-000358,"[np.str_('Accessories'), np.str_('Paper'), np.str_('Chairs')]",3
+OD-000359,"[np.str_('Binders'), np.str_('Phones')]",2
+OD-000360,"[np.str_('Paper'), np.str_('Binders'), np.str_('Labels'), np.str_('Bookcases'), np.str_('Machines')]",5
+OD-000361,"[np.str_('Copiers'), np.str_('Storage')]",2
+OD-000362,"[np.str_('Machines'), np.str_('Phones'), np.str_('Supplies'), np.str_('Chairs')]",4
+OD-000363,"[np.str_('Tables'), np.str_('Copiers')]",2
+OD-000364,"[np.str_('Chairs'), np.str_('Labels'), np.str_('Tables'), np.str_('Copiers'), np.str_('Storage')]",5
+OD-000365,"[np.str_('Accessories'), np.str_('Paper')]",2
+OD-000366,"[np.str_('Labels'), np.str_('Bookcases'), np.str_('Storage')]",3
+OD-000367,"[np.str_('Labels'), np.str_('Paper'), np.str_('Tables'), np.str_('Accessories')]",4
+OD-000368,"[np.str_('Labels'), np.str_('Chairs')]",2
+OD-000369,"[np.str_('Bookcases'), np.str_('Storage'), np.str_('Binders')]",3
+OD-000370,"[np.str_('Furnishings'), np.str_('Bookcases'), np.str_('Tables'), np.str_('Chairs')]",4
+OD-000371,"[np.str_('Paper'), np.str_('Storage'), np.str_('Tables'), np.str_('Chairs')]",4
+OD-000372,"[np.str_('Binders'), np.str_('Supplies')]",2
+OD-000373,"[np.str_('Paper'), np.str_('Supplies'), np.str_('Furnishings')]",3
+OD-000374,"[np.str_('Labels'), np.str_('Tables'), np.str_('Paper'), np.str_('Storage')]",4
+OD-000375,"[np.str_('Binders'), np.str_('Labels'), np.str_('Copiers'), np.str_('Storage')]",4
+OD-000376,"[np.str_('Binders'), np.str_('Accessories'), np.str_('Chairs')]",3
+OD-000377,"[np.str_('Machines'), np.str_('Accessories'), np.str_('Storage'), np.str_('Supplies')]",4
+OD-000378,"[np.str_('Accessories'), np.str_('Machines'), np.str_('Tables'), np.str_('Furnishings')]",4
+OD-000379,"[np.str_('Bookcases'), np.str_('Copiers')]",2
+OD-000380,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Chairs')]",3
+OD-000381,"[np.str_('Paper'), np.str_('Accessories'), np.str_('Phones'), np.str_('Binders'), np.str_('Copiers')]",5
+OD-000382,"[np.str_('Binders'), np.str_('Accessories'), np.str_('Bookcases'), np.str_('Supplies')]",4
+OD-000383,"[np.str_('Accessories'), np.str_('Paper'), np.str_('Machines')]",3
+OD-000384,"[np.str_('Labels'), np.str_('Tables')]",2
+OD-000385,"[np.str_('Phones'), np.str_('Storage'), np.str_('Machines')]",3
+OD-000386,"[np.str_('Phones'), np.str_('Storage')]",2
+OD-000387,"[np.str_('Accessories'), np.str_('Storage'), np.str_('Phones')]",3
+OD-000388,"[np.str_('Paper'), np.str_('Bookcases')]",2
+OD-000389,"[np.str_('Labels'), np.str_('Phones'), np.str_('Tables'), np.str_('Chairs')]",4
+OD-000390,"[np.str_('Bookcases'), np.str_('Machines')]",2
+OD-000391,"[np.str_('Machines'), np.str_('Accessories'), np.str_('Supplies')]",3
+OD-000392,"[np.str_('Tables'), np.str_('Binders'), np.str_('Machines')]",3
+OD-000393,"[np.str_('Binders'), np.str_('Chairs')]",2
+OD-000394,"[np.str_('Bookcases'), np.str_('Phones')]",2
+OD-000395,"[np.str_('Bookcases'), np.str_('Phones'), np.str_('Supplies'), np.str_('Furnishings')]",4
+OD-000396,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Paper')]",3
+OD-000397,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Machines')]",3
+OD-000398,"[np.str_('Binders'), np.str_('Supplies'), np.str_('Accessories')]",3
+OD-000400,"[np.str_('Accessories'), np.str_('Paper'), np.str_('Supplies'), np.str_('Furnishings')]",4
+OD-000401,"[np.str_('Tables'), np.str_('Bookcases')]",2
+OD-000402,"[np.str_('Bookcases'), np.str_('Accessories')]",2
+OD-000403,"[np.str_('Phones'), np.str_('Machines')]",2
+OD-000404,"[np.str_('Phones'), np.str_('Supplies')]",2
+OD-000405,"[np.str_('Labels'), np.str_('Tables'), np.str_('Storage'), np.str_('Chairs')]",4
+OD-000406,"[np.str_('Supplies'), np.str_('Furnishings')]",2
+OD-000407,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Binders'), np.str_('Accessories')]",4
+OD-000408,"[np.str_('Binders'), np.str_('Storage'), np.str_('Supplies'), np.str_('Chairs')]",4
+OD-000409,"[np.str_('Paper'), np.str_('Supplies')]",2
+OD-000410,"[np.str_('Bookcases'), np.str_('Tables'), np.str_('Accessories')]",3
+OD-000411,"[np.str_('Bookcases'), np.str_('Phones'), np.str_('Tables'), np.str_('Chairs')]",4
+OD-000412,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Storage'), np.str_('Supplies')]",4
+OD-000414,"[np.str_('Accessories'), np.str_('Supplies'), np.str_('Phones'), np.str_('Machines')]",4
+OD-000415,"[np.str_('Furnishings'), np.str_('Storage'), np.str_('Chairs')]",3
+OD-000416,"[np.str_('Paper'), np.str_('Chairs'), np.str_('Labels'), np.str_('Storage'), np.str_('Supplies')]",5
+OD-000417,"[np.str_('Binders'), np.str_('Storage'), np.str_('Phones'), np.str_('Machines')]",4
+OD-000418,"[np.str_('Labels'), np.str_('Phones')]",2
+OD-000419,"[np.str_('Labels'), np.str_('Paper'), np.str_('Tables'), np.str_('Furnishings')]",4
+OD-000420,"[np.str_('Bookcases'), np.str_('Machines')]",2
+OD-000421,"[np.str_('Furnishings'), np.str_('Supplies'), np.str_('Chairs')]",3
+OD-000422,"[np.str_('Labels'), np.str_('Tables'), np.str_('Supplies')]",3
+OD-000423,"[np.str_('Machines'), np.str_('Phones'), np.str_('Supplies')]",3
+OD-000424,"[np.str_('Tables'), np.str_('Storage'), np.str_('Supplies'), np.str_('Furnishings')]",4
+OD-000425,"[np.str_('Bookcases'), np.str_('Copiers'), np.str_('Chairs')]",3
+OD-000426,"[np.str_('Tables'), np.str_('Phones'), np.str_('Supplies')]",3
+OD-000427,"[np.str_('Tables'), np.str_('Phones'), np.str_('Bookcases'), np.str_('Furnishings')]",4
+OD-000428,"[np.str_('Tables'), np.str_('Accessories')]",2
+OD-000429,"[np.str_('Phones'), np.str_('Chairs')]",2
+OD-000430,"[np.str_('Copiers'), np.str_('Furnishings')]",2
+OD-000431,"[np.str_('Copiers'), np.str_('Phones'), np.str_('Supplies')]",3
+OD-000433,"[np.str_('Tables'), np.str_('Bookcases'), np.str_('Chairs')]",3
+OD-000434,"[np.str_('Storage'), np.str_('Supplies'), np.str_('Chairs')]",3
+OD-000435,"[np.str_('Accessories'), np.str_('Storage')]",2
+OD-000436,"[np.str_('Bookcases'), np.str_('Storage'), np.str_('Binders'), np.str_('Tables')]",4
+OD-000437,"[np.str_('Bookcases'), np.str_('Binders'), np.str_('Supplies')]",3
+OD-000438,"[np.str_('Binders'), np.str_('Chairs')]",2
+OD-000439,"[np.str_('Accessories'), np.str_('Copiers')]",2
+OD-000440,"[np.str_('Bookcases'), np.str_('Copiers'), np.str_('Accessories'), np.str_('Furnishings')]",4
+OD-000441,"[np.str_('Bookcases'), np.str_('Copiers'), np.str_('Chairs')]",3
+OD-000442,"[np.str_('Copiers'), np.str_('Storage'), np.str_('Furnishings')]",3
+OD-000443,"[np.str_('Tables'), np.str_('Storage'), np.str_('Bookcases')]",3
+OD-000444,"[np.str_('Copiers'), np.str_('Machines')]",2
+OD-000445,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Phones'), np.str_('Supplies')]",4
+OD-000446,"[np.str_('Accessories'), np.str_('Storage'), np.str_('Machines')]",3
+OD-000447,"[np.str_('Accessories'), np.str_('Paper'), np.str_('Storage'), np.str_('Furnishings')]",4
+OD-000448,"[np.str_('Accessories'), np.str_('Tables')]",2
+OD-000449,"[np.str_('Tables'), np.str_('Supplies')]",2
+OD-000450,"[np.str_('Storage'), np.str_('Supplies'), np.str_('Chairs')]",3
+OD-000451,"[np.str_('Tables'), np.str_('Phones'), np.str_('Supplies'), np.str_('Furnishings')]",4
+OD-000452,"[np.str_('Bookcases'), np.str_('Phones'), np.str_('Accessories')]",3
+OD-000453,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Storage')]",3
+OD-000454,"[np.str_('Bookcases'), np.str_('Binders'), np.str_('Supplies')]",3
+OD-000455,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Supplies')]",3
+OD-000456,"[np.str_('Copiers'), np.str_('Supplies')]",2
+OD-000457,"[np.str_('Labels'), np.str_('Storage'), np.str_('Chairs')]",3
+OD-000458,"[np.str_('Labels'), np.str_('Tables'), np.str_('Accessories'), np.str_('Chairs')]",4
+OD-000459,"[np.str_('Phones'), np.str_('Labels'), np.str_('Copiers'), np.str_('Storage')]",4
+OD-000460,"[np.str_('Bookcases'), np.str_('Copiers'), np.str_('Chairs')]",3
+OD-000461,"[np.str_('Phones'), np.str_('Machines'), np.str_('Chairs')]",3
+OD-000462,"[np.str_('Labels'), np.str_('Accessories'), np.str_('Storage'), np.str_('Supplies')]",4
+OD-000463,"[np.str_('Accessories'), np.str_('Supplies')]",2
+OD-000464,"[np.str_('Phones'), np.str_('Storage'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-000465,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Phones'), np.str_('Chairs')]",4
+OD-000466,"[np.str_('Supplies'), np.str_('Chairs')]",2
+OD-000467,"[np.str_('Labels'), np.str_('Paper'), np.str_('Copiers'), np.str_('Storage')]",4
+OD-000468,"[np.str_('Copiers'), np.str_('Chairs')]",2
+OD-000469,"[np.str_('Furnishings'), np.str_('Accessories'), np.str_('Chairs')]",3
+OD-000470,"[np.str_('Tables'), np.str_('Binders'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-000471,"[np.str_('Accessories'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-000472,"[np.str_('Copiers'), np.str_('Storage'), np.str_('Furnishings')]",3
+OD-000473,"[np.str_('Phones'), np.str_('Bookcases'), np.str_('Copiers'), np.str_('Binders')]",4
+OD-000475,"[np.str_('Storage'), np.str_('Supplies')]",2
+OD-000476,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Binders'), np.str_('Furnishings'), np.str_('Copiers')]",5
+OD-000477,"[np.str_('Phones'), np.str_('Machines'), np.str_('Chairs')]",3
+OD-000478,"[np.str_('Paper'), np.str_('Accessories'), np.str_('Binders'), np.str_('Furnishings'), np.str_('Supplies')]",5
+OD-000479,"[np.str_('Paper'), np.str_('Copiers')]",2
+OD-000480,"[np.str_('Accessories'), np.str_('Chairs')]",2
+OD-000481,"[np.str_('Binders'), np.str_('Tables'), np.str_('Chairs')]",3
+OD-000482,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Phones'), np.str_('Furnishings')]",4
+OD-000483,"[np.str_('Accessories'), np.str_('Paper')]",2
+OD-000484,"[np.str_('Labels'), np.str_('Binders'), np.str_('Chairs')]",3
+OD-000485,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Phones'), np.str_('Machines')]",4
+OD-000486,"[np.str_('Paper'), np.str_('Phones'), np.str_('Labels'), np.str_('Machines'), np.str_('Copiers')]",5
+OD-000487,"[np.str_('Accessories'), np.str_('Bookcases'), np.str_('Supplies')]",3
+OD-000488,"[np.str_('Binders'), np.str_('Storage'), np.str_('Phones'), np.str_('Furnishings')]",4
+OD-000489,"[np.str_('Tables'), np.str_('Storage'), np.str_('Phones'), np.str_('Chairs')]",4
+OD-000490,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Machines'), np.str_('Paper')]",4
+OD-000491,"[np.str_('Binders'), np.str_('Paper'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-000492,"[np.str_('Phones'), np.str_('Chairs')]",2
+OD-000493,"[np.str_('Accessories'), np.str_('Chairs'), np.str_('Labels'), np.str_('Tables'), np.str_('Storage')]",5
+OD-000494,"[np.str_('Bookcases'), np.str_('Storage')]",2
+OD-000495,"[np.str_('Phones'), np.str_('Accessories'), np.str_('Storage')]",3
+OD-000496,"[np.str_('Binders'), np.str_('Storage'), np.str_('Supplies'), np.str_('Chairs')]",4
+OD-000497,"[np.str_('Paper'), np.str_('Bookcases'), np.str_('Supplies')]",3
+OD-000498,"[np.str_('Bookcases'), np.str_('Copiers')]",2
+OD-000499,"[np.str_('Bookcases'), np.str_('Machines')]",2
+OD-000500,"[np.str_('Bookcases'), np.str_('Storage'), np.str_('Supplies')]",3
+OD-000501,"[np.str_('Tables'), np.str_('Copiers')]",2
+OD-000502,"[np.str_('Furnishings'), np.str_('Chairs')]",2
+OD-000503,"[np.str_('Chairs'), np.str_('Labels'), np.str_('Tables'), np.str_('Binders'), np.str_('Supplies')]",5
+OD-000504,"[np.str_('Paper'), np.str_('Storage'), np.str_('Phones'), np.str_('Chairs')]",4
+OD-000505,"[np.str_('Tables'), np.str_('Binders'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-000506,"[np.str_('Labels'), np.str_('Paper')]",2
+OD-000507,"[np.str_('Phones'), np.str_('Machines')]",2
+OD-000508,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Machines')]",3
+OD-000509,"[np.str_('Tables'), np.str_('Chairs')]",2
+OD-000510,"[np.str_('Phones'), np.str_('Labels'), np.str_('Tables'), np.str_('Machines'), np.str_('Copiers')]",5
+OD-000511,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-000512,"[np.str_('Bookcases'), np.str_('Accessories')]",2
+OD-000513,"[np.str_('Copiers'), np.str_('Chairs')]",2
+OD-000514,"[np.str_('Labels'), np.str_('Tables')]",2
+OD-000515,"[np.str_('Supplies'), np.str_('Chairs')]",2
+OD-000516,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Bookcases')]",3
+OD-000517,"[np.str_('Bookcases'), np.str_('Machines'), np.str_('Furnishings')]",3
+OD-000518,"[np.str_('Paper'), np.str_('Copiers')]",2
+OD-000519,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Tables')]",3
+OD-000520,"[np.str_('Chairs'), np.str_('Tables'), np.str_('Phones'), np.str_('Furnishings')]",4
+OD-000521,"[np.str_('Accessories'), np.str_('Paper'), np.str_('Binders'), np.str_('Chairs')]",4
+OD-000522,"[np.str_('Accessories'), np.str_('Bookcases')]",2
+OD-000523,"[np.str_('Tables'), np.str_('Phones'), np.str_('Chairs')]",3
+OD-000524,"[np.str_('Paper'), np.str_('Tables'), np.str_('Machines'), np.str_('Furnishings'), np.str_('Storage')]",5
+OD-000525,"[np.str_('Bookcases'), np.str_('Machines'), np.str_('Copiers'), np.str_('Storage'), np.str_('Supplies')]",5
+OD-000526,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Bookcases'), np.str_('Supplies')]",4
+OD-000527,"[np.str_('Bookcases'), np.str_('Paper')]",2
+OD-000528,"[np.str_('Phones'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Furnishings'), np.str_('Supplies')]",5
+OD-000529,"[np.str_('Tables'), np.str_('Storage'), np.str_('Machines')]",3
+OD-000530,"[np.str_('Bookcases'), np.str_('Phones'), np.str_('Machines')]",3
+OD-000531,"[np.str_('Accessories'), np.str_('Bookcases'), np.str_('Tables'), np.str_('Furnishings'), np.str_('Storage')]",5
+OD-000532,"[np.str_('Paper'), np.str_('Furnishings')]",2
+OD-000533,"[np.str_('Copiers'), np.str_('Phones')]",2
+OD-000534,"[np.str_('Bookcases'), np.str_('Furnishings')]",2
+OD-000536,"[np.str_('Labels'), np.str_('Storage')]",2
+OD-000537,"[np.str_('Chairs'), np.str_('Bookcases'), np.str_('Furnishings')]",3
+OD-000538,"[np.str_('Binders'), np.str_('Labels'), np.str_('Bookcases')]",3
+OD-000539,"[np.str_('Paper'), np.str_('Binders'), np.str_('Tables'), np.str_('Furnishings')]",4
+OD-000540,"[np.str_('Tables'), np.str_('Machines'), np.str_('Accessories'), np.str_('Furnishings')]",4
+OD-000541,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Supplies')]",3
+OD-000542,"[np.str_('Storage'), np.str_('Machines'), np.str_('Furnishings')]",3
+OD-000543,"[np.str_('Bookcases'), np.str_('Paper'), np.str_('Binders')]",3
+OD-000544,"[np.str_('Labels'), np.str_('Machines'), np.str_('Furnishings')]",3
+OD-000545,"[np.str_('Tables'), np.str_('Storage'), np.str_('Accessories')]",3
+OD-000546,"[np.str_('Binders'), np.str_('Bookcases'), np.str_('Chairs')]",3
+OD-000547,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Storage'), np.str_('Chairs')]",4
+OD-000548,"[np.str_('Paper'), np.str_('Binders'), np.str_('Labels'), np.str_('Furnishings'), np.str_('Storage')]",5
+OD-000549,"[np.str_('Machines'), np.str_('Bookcases'), np.str_('Supplies'), np.str_('Chairs')]",4
+OD-000550,"[np.str_('Supplies'), np.str_('Machines')]",2
+OD-000551,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Chairs')]",3
+OD-000552,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Phones')]",3
+OD-000553,"[np.str_('Labels'), np.str_('Binders'), np.str_('Storage'), np.str_('Tables')]",4
+OD-000554,"[np.str_('Tables'), np.str_('Storage')]",2
+OD-000555,"[np.str_('Supplies'), np.str_('Chairs')]",2
+OD-000556,"[np.str_('Tables'), np.str_('Phones')]",2
+OD-000557,"[np.str_('Labels'), np.str_('Machines'), np.str_('Chairs')]",3
+OD-000558,"[np.str_('Phones'), np.str_('Chairs'), np.str_('Tables'), np.str_('Binders'), np.str_('Storage')]",5
+OD-000559,"[np.str_('Tables'), np.str_('Paper'), np.str_('Phones')]",3
+OD-000560,"[np.str_('Binders'), np.str_('Phones'), np.str_('Supplies'), np.str_('Furnishings')]",4
+OD-000561,"[np.str_('Tables'), np.str_('Binders'), np.str_('Machines')]",3
+OD-000562,"[np.str_('Labels'), np.str_('Bookcases')]",2
+OD-000563,"[np.str_('Labels'), np.str_('Paper')]",2
+OD-000564,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-000565,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Phones')]",3
+OD-000566,"[np.str_('Binders'), np.str_('Furnishings')]",2
+OD-000567,"[np.str_('Labels'), np.str_('Paper'), np.str_('Storage'), np.str_('Chairs')]",4
+OD-000568,"[np.str_('Labels'), np.str_('Paper'), np.str_('Binders'), np.str_('Tables')]",4
+OD-000569,"[np.str_('Labels'), np.str_('Tables'), np.str_('Paper'), np.str_('Supplies')]",4
+OD-000570,"[np.str_('Labels'), np.str_('Paper'), np.str_('Supplies'), np.str_('Chairs')]",4
+OD-000571,"[np.str_('Labels'), np.str_('Bookcases'), np.str_('Accessories')]",3
+OD-000572,"[np.str_('Paper'), np.str_('Copiers')]",2
+OD-000573,"[np.str_('Phones'), np.str_('Chairs')]",2
+OD-000574,"[np.str_('Storage'), np.str_('Supplies'), np.str_('Chairs')]",3
+OD-000575,"[np.str_('Chairs'), np.str_('Bookcases'), np.str_('Copiers'), np.str_('Furnishings')]",4
+OD-000576,"[np.str_('Labels'), np.str_('Binders'), np.str_('Accessories')]",3
+OD-000577,"[np.str_('Accessories'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-000578,"[np.str_('Labels'), np.str_('Phones'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-000579,"[np.str_('Binders'), np.str_('Storage'), np.str_('Bookcases'), np.str_('Machines')]",4
+OD-000580,"[np.str_('Labels'), np.str_('Binders'), np.str_('Supplies'), np.str_('Furnishings')]",4
+OD-000581,"[np.str_('Binders'), np.str_('Copiers')]",2
+OD-000582,"[np.str_('Tables'), np.str_('Copiers')]",2
+OD-000583,"[np.str_('Labels'), np.str_('Copiers')]",2
+OD-000585,"[np.str_('Accessories'), np.str_('Storage'), np.str_('Bookcases')]",3
+OD-000586,"[np.str_('Copiers'), np.str_('Phones'), np.str_('Supplies')]",3
+OD-000587,"[np.str_('Binders'), np.str_('Paper'), np.str_('Phones'), np.str_('Chairs')]",4
+OD-000588,"[np.str_('Tables'), np.str_('Accessories')]",2
+OD-000589,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Machines')]",3
+OD-000590,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Chairs')]",3
+OD-000591,"[np.str_('Paper'), np.str_('Phones')]",2
+OD-000592,"[np.str_('Paper'), np.str_('Bookcases'), np.str_('Machines')]",3
+OD-000593,"[np.str_('Bookcases'), np.str_('Paper'), np.str_('Chairs')]",3
+OD-000594,"[np.str_('Tables'), np.str_('Storage'), np.str_('Bookcases'), np.str_('Chairs')]",4
+OD-000595,"[np.str_('Labels'), np.str_('Binders'), np.str_('Phones'), np.str_('Furnishings')]",4
+OD-000596,"[np.str_('Accessories'), np.str_('Paper'), np.str_('Furnishings')]",3
+OD-000597,"[np.str_('Copiers'), np.str_('Storage'), np.str_('Supplies')]",3
+OD-000598,"[np.str_('Bookcases'), np.str_('Phones'), np.str_('Chairs')]",3
+OD-000599,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Furnishings')]",3
+OD-000600,"[np.str_('Chairs'), np.str_('Furnishings')]",2
+OD-000601,"[np.str_('Accessories'), np.str_('Chairs'), np.str_('Labels'), np.str_('Machines'), np.str_('Supplies')]",5
+OD-000602,"[np.str_('Labels'), np.str_('Paper'), np.str_('Tables')]",3
+OD-000603,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Phones'), np.str_('Accessories')]",4
+OD-000604,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Furnishings')]",3
+OD-000605,"[np.str_('Storage'), np.str_('Machines')]",2
+OD-000606,"[np.str_('Bookcases'), np.str_('Binders')]",2
+OD-000607,"[np.str_('Labels'), np.str_('Paper'), np.str_('Phones'), np.str_('Accessories')]",4
+OD-000608,"[np.str_('Labels'), np.str_('Bookcases')]",2
+OD-000609,"[np.str_('Paper'), np.str_('Phones'), np.str_('Chairs'), np.str_('Binders'), np.str_('Machines')]",5
+OD-000610,"[np.str_('Phones'), np.str_('Supplies'), np.str_('Chairs')]",3
+OD-000611,"[np.str_('Bookcases'), np.str_('Paper'), np.str_('Accessories'), np.str_('Tables')]",4
+OD-000612,"[np.str_('Chairs'), np.str_('Labels'), np.str_('Binders'), np.str_('Storage'), np.str_('Supplies')]",5
+OD-000613,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Chairs'), np.str_('Bookcases'), np.str_('Machines')]",5
+OD-000614,"[np.str_('Tables'), np.str_('Chairs')]",2
+OD-000615,"[np.str_('Binders'), np.str_('Bookcases')]",2
+OD-000616,"[np.str_('Bookcases'), np.str_('Phones')]",2
+OD-000617,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Binders')]",3
+OD-000618,"[np.str_('Bookcases'), np.str_('Storage'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-000619,"[np.str_('Machines'), np.str_('Furnishings')]",2
+OD-000620,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Binders'), np.str_('Furnishings')]",4
+OD-000621,"[np.str_('Copiers'), np.str_('Machines')]",2
+OD-000622,"[np.str_('Accessories'), np.str_('Paper')]",2
+OD-000623,"[np.str_('Accessories'), np.str_('Paper'), np.str_('Chairs')]",3
+OD-000624,"[np.str_('Tables'), np.str_('Furnishings')]",2
+OD-000625,"[np.str_('Bookcases'), np.str_('Copiers'), np.str_('Phones')]",3
+OD-000626,"[np.str_('Phones'), np.str_('Chairs')]",2
+OD-000627,"[np.str_('Accessories'), np.str_('Supplies'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-000628,"[np.str_('Accessories'), np.str_('Machines'), np.str_('Chairs')]",3
+OD-000629,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Supplies'), np.str_('Furnishings')]",4
+OD-000630,"[np.str_('Binders'), np.str_('Machines'), np.str_('Furnishings')]",3
+OD-000632,"[np.str_('Paper'), np.str_('Storage'), np.str_('Machines')]",3
+OD-000633,"[np.str_('Machines'), np.str_('Furnishings')]",2
+OD-000634,"[np.str_('Tables'), np.str_('Phones'), np.str_('Accessories')]",3
+OD-000635,"[np.str_('Tables'), np.str_('Bookcases')]",2
+OD-000636,"[np.str_('Accessories'), np.str_('Phones')]",2
+OD-000637,"[np.str_('Paper'), np.str_('Chairs'), np.str_('Labels'), np.str_('Furnishings'), np.str_('Copiers')]",5
+OD-000638,"[np.str_('Binders'), np.str_('Bookcases')]",2
+OD-000639,"[np.str_('Binders'), np.str_('Paper'), np.str_('Bookcases')]",3
+OD-000640,"[np.str_('Accessories'), np.str_('Storage'), np.str_('Bookcases')]",3
+OD-000641,"[np.str_('Labels'), np.str_('Copiers')]",2
+OD-000642,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Bookcases'), np.str_('Furnishings')]",4
+OD-000643,"[np.str_('Binders'), np.str_('Bookcases'), np.str_('Supplies'), np.str_('Furnishings')]",4
+OD-000644,"[np.str_('Supplies'), np.str_('Phones'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-000645,"[np.str_('Binders'), np.str_('Labels'), np.str_('Paper'), np.str_('Bookcases')]",4
+OD-000646,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-000647,"[np.str_('Accessories'), np.str_('Chairs'), np.str_('Labels'), np.str_('Furnishings'), np.str_('Storage')]",5
+OD-000648,"[np.str_('Phones'), np.str_('Chairs'), np.str_('Labels'), np.str_('Bookcases'), np.str_('Tables')]",5
+OD-000649,"[np.str_('Binders'), np.str_('Machines'), np.str_('Tables')]",3
+OD-000650,"[np.str_('Bookcases'), np.str_('Phones'), np.str_('Chairs')]",3
+OD-000651,"[np.str_('Labels'), np.str_('Storage'), np.str_('Supplies')]",3
+OD-000652,"[np.str_('Accessories'), np.str_('Paper'), np.str_('Machines')]",3
+OD-000653,"[np.str_('Labels'), np.str_('Supplies'), np.str_('Copiers'), np.str_('Machines')]",4
+OD-000654,"[np.str_('Tables'), np.str_('Copiers')]",2
+OD-000655,"[np.str_('Supplies'), np.str_('Furnishings')]",2
+OD-000656,"[np.str_('Copiers'), np.str_('Phones'), np.str_('Furnishings')]",3
+OD-000657,"[np.str_('Chairs'), np.str_('Labels'), np.str_('Machines'), np.str_('Storage'), np.str_('Supplies')]",5
+OD-000658,"[np.str_('Copiers'), np.str_('Chairs')]",2
+OD-000659,"[np.str_('Bookcases'), np.str_('Phones')]",2
+OD-000660,"[np.str_('Labels'), np.str_('Bookcases'), np.str_('Supplies'), np.str_('Tables')]",4
+OD-000661,"[np.str_('Bookcases'), np.str_('Machines'), np.str_('Tables'), np.str_('Furnishings')]",4
+OD-000662,"[np.str_('Paper'), np.str_('Binders'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-000663,"[np.str_('Bookcases'), np.str_('Binders'), np.str_('Supplies'), np.str_('Chairs')]",4
+OD-000664,"[np.str_('Paper'), np.str_('Storage')]",2
+OD-000665,"[np.str_('Bookcases'), np.str_('Storage'), np.str_('Phones')]",3
+OD-000666,"[np.str_('Paper'), np.str_('Phones'), np.str_('Chairs'), np.str_('Machines'), np.str_('Furnishings')]",5
+OD-000667,"[np.str_('Binders'), np.str_('Tables'), np.str_('Paper'), np.str_('Bookcases')]",4
+OD-000668,"[np.str_('Paper'), np.str_('Phones'), np.str_('Tables')]",3
+OD-000669,"[np.str_('Tables'), np.str_('Phones'), np.str_('Bookcases'), np.str_('Chairs')]",4
+OD-000670,"[np.str_('Labels'), np.str_('Storage'), np.str_('Supplies'), np.str_('Accessories')]",4
+OD-000671,"[np.str_('Tables'), np.str_('Phones'), np.str_('Accessories')]",3
+OD-000672,"[np.str_('Labels'), np.str_('Phones')]",2
+OD-000673,"[np.str_('Tables'), np.str_('Storage'), np.str_('Furnishings')]",3
+OD-000674,"[np.str_('Labels'), np.str_('Machines')]",2
+OD-000675,"[np.str_('Bookcases'), np.str_('Accessories'), np.str_('Chairs')]",3
+OD-000676,"[np.str_('Accessories'), np.str_('Binders'), np.str_('Machines'), np.str_('Tables')]",4
+OD-000677,"[np.str_('Bookcases'), np.str_('Furnishings')]",2
+OD-000678,"[np.str_('Labels'), np.str_('Bookcases')]",2
+OD-000679,"[np.str_('Machines'), np.str_('Tables'), np.str_('Supplies')]",3
+OD-000680,"[np.str_('Labels'), np.str_('Tables'), np.str_('Copiers')]",3
+OD-000681,"[np.str_('Paper'), np.str_('Phones'), np.str_('Furnishings')]",3
+OD-000682,"[np.str_('Machines'), np.str_('Chairs')]",2
+OD-000683,"[np.str_('Labels'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-000684,"[np.str_('Accessories'), np.str_('Tables'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Furnishings')]",5
+OD-000685,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Machines')]",3
+OD-000686,"[np.str_('Storage'), np.str_('Phones'), np.str_('Chairs')]",3
+OD-000687,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Bookcases'), np.str_('Paper')]",4
+OD-000688,"[np.str_('Paper'), np.str_('Storage'), np.str_('Accessories'), np.str_('Chairs')]",4
+OD-000689,"[np.str_('Paper'), np.str_('Labels'), np.str_('Machines'), np.str_('Furnishings'), np.str_('Supplies')]",5
+OD-000690,"[np.str_('Furnishings'), np.str_('Bookcases'), np.str_('Storage'), np.str_('Chairs')]",4
+OD-000691,"[np.str_('Tables'), np.str_('Supplies'), np.str_('Furnishings')]",3
+OD-000692,"[np.str_('Accessories'), np.str_('Labels'), np.str_('Binders'), np.str_('Furnishings'), np.str_('Supplies')]",5
+OD-000693,"[np.str_('Bookcases'), np.str_('Copiers'), np.str_('Machines')]",3
+OD-000694,"[np.str_('Phones'), np.str_('Storage'), np.str_('Machines')]",3
+OD-000695,"[np.str_('Accessories'), np.str_('Bookcases'), np.str_('Tables'), np.str_('Binders'), np.str_('Machines')]",5
+OD-000696,"[np.str_('Bookcases'), np.str_('Paper')]",2
+OD-000697,"[np.str_('Paper'), np.str_('Bookcases'), np.str_('Machines')]",3
+OD-000698,"[np.str_('Binders'), np.str_('Accessories'), np.str_('Bookcases'), np.str_('Chairs')]",4
+OD-000699,"[np.str_('Paper'), np.str_('Phones'), np.str_('Chairs'), np.str_('Copiers'), np.str_('Supplies')]",5
+OD-000700,"[np.str_('Accessories'), np.str_('Storage')]",2
+OD-000701,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Tables')]",3
+OD-000702,"[np.str_('Labels'), np.str_('Tables'), np.str_('Phones'), np.str_('Supplies')]",4
+OD-000703,"[np.str_('Bookcases'), np.str_('Storage'), np.str_('Supplies'), np.str_('Furnishings')]",4
+OD-000704,"[np.str_('Tables'), np.str_('Phones'), np.str_('Furnishings')]",3
+OD-000705,"[np.str_('Binders'), np.str_('Supplies')]",2
+OD-000706,"[np.str_('Phones'), np.str_('Labels'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Furnishings')]",5
+OD-000707,"[np.str_('Bookcases'), np.str_('Paper'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-000708,"[np.str_('Labels'), np.str_('Binders'), np.str_('Machines')]",3
+OD-000709,"[np.str_('Labels'), np.str_('Tables'), np.str_('Storage'), np.str_('Supplies')]",4
+OD-000710,"[np.str_('Accessories'), np.str_('Chairs'), np.str_('Machines'), np.str_('Storage'), np.str_('Supplies')]",5
+OD-000711,"[np.str_('Phones'), np.str_('Storage'), np.str_('Supplies'), np.str_('Furnishings')]",4
+OD-000712,"[np.str_('Paper'), np.str_('Storage'), np.str_('Machines')]",3
+OD-000713,"[np.str_('Phones'), np.str_('Accessories'), np.str_('Storage')]",3
+OD-000714,"[np.str_('Bookcases'), np.str_('Accessories')]",2
+OD-000715,"[np.str_('Bookcases'), np.str_('Machines'), np.str_('Chairs')]",3
+OD-000716,"[np.str_('Tables'), np.str_('Binders'), np.str_('Furnishings')]",3
+OD-000717,"[np.str_('Tables'), np.str_('Machines'), np.str_('Furnishings')]",3
+OD-000718,"[np.str_('Labels'), np.str_('Paper'), np.str_('Copiers'), np.str_('Bookcases')]",4
+OD-000719,"[np.str_('Bookcases'), np.str_('Phones'), np.str_('Chairs')]",3
+OD-000720,"[np.str_('Supplies'), np.str_('Chairs')]",2
+OD-000721,"[np.str_('Labels'), np.str_('Accessories')]",2
+OD-000722,"[np.str_('Labels'), np.str_('Paper'), np.str_('Copiers'), np.str_('Furnishings')]",4
+OD-000723,"[np.str_('Tables'), np.str_('Binders'), np.str_('Furnishings')]",3
+OD-000724,"[np.str_('Binders'), np.str_('Storage')]",2
+OD-000725,"[np.str_('Copiers'), np.str_('Furnishings')]",2
+OD-000726,"[np.str_('Copiers'), np.str_('Tables'), np.str_('Storage'), np.str_('Bookcases')]",4
+OD-000727,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-000728,"[np.str_('Bookcases'), np.str_('Furnishings')]",2
+OD-000729,"[np.str_('Tables'), np.str_('Machines'), np.str_('Furnishings')]",3
+OD-000730,"[np.str_('Labels'), np.str_('Bookcases'), np.str_('Phones'), np.str_('Tables')]",4
+OD-000731,"[np.str_('Binders'), np.str_('Paper'), np.str_('Accessories')]",3
+OD-000732,"[np.str_('Binders'), np.str_('Paper'), np.str_('Storage'), np.str_('Accessories')]",4
+OD-000733,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Phones'), np.str_('Supplies')]",4
+OD-000734,"[np.str_('Paper'), np.str_('Accessories'), np.str_('Phones'), np.str_('Bookcases'), np.str_('Binders')]",5
+OD-000735,"[np.str_('Accessories'), np.str_('Labels'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Copiers')]",5
+OD-000736,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Binders'), np.str_('Paper')]",4
+OD-000737,"[np.str_('Labels'), np.str_('Paper'), np.str_('Furnishings')]",3
+OD-000738,"[np.str_('Labels'), np.str_('Accessories'), np.str_('Tables')]",3
+OD-000739,"[np.str_('Bookcases'), np.str_('Chairs')]",2
+OD-000740,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Chairs'), np.str_('Binders'), np.str_('Copiers')]",5
+OD-000741,"[np.str_('Copiers'), np.str_('Phones'), np.str_('Chairs')]",3
+OD-000742,"[np.str_('Accessories'), np.str_('Binders'), np.str_('Supplies')]",3
+OD-000743,"[np.str_('Chairs'), np.str_('Tables'), np.str_('Furnishings')]",3
+OD-000744,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Chairs'), np.str_('Labels'), np.str_('Furnishings')]",5
+OD-000745,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Supplies')]",3
+OD-000746,"[np.str_('Phones'), np.str_('Bookcases'), np.str_('Storage'), np.str_('Machines')]",4
+OD-000747,"[np.str_('Paper'), np.str_('Phones'), np.str_('Tables'), np.str_('Bookcases'), np.str_('Furnishings')]",5
+OD-000748,"[np.str_('Labels'), np.str_('Supplies')]",2
+OD-000749,"[np.str_('Labels'), np.str_('Accessories')]",2
+OD-000750,"[np.str_('Tables'), np.str_('Machines'), np.str_('Furnishings')]",3
+OD-000751,"[np.str_('Furnishings'), np.str_('Accessories'), np.str_('Phones'), np.str_('Chairs')]",4
+OD-000752,"[np.str_('Machines'), np.str_('Labels'), np.str_('Supplies')]",3
+OD-000753,"[np.str_('Paper'), np.str_('Supplies'), np.str_('Chairs')]",3
+OD-000754,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Chairs')]",3
+OD-000755,"[np.str_('Copiers'), np.str_('Phones'), np.str_('Machines')]",3
+OD-000756,"[np.str_('Binders'), np.str_('Supplies')]",2
+OD-000757,"[np.str_('Phones'), np.str_('Paper'), np.str_('Copiers'), np.str_('Storage')]",4
+OD-000758,"[np.str_('Tables'), np.str_('Paper'), np.str_('Supplies')]",3
+OD-000759,"[np.str_('Paper'), np.str_('Phones'), np.str_('Binders'), np.str_('Tables'), np.str_('Machines')]",5
+OD-000760,"[np.str_('Labels'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Furnishings'), np.str_('Storage')]",5
+OD-000761,"[np.str_('Bookcases'), np.str_('Storage'), np.str_('Phones')]",3
+OD-000762,"[np.str_('Tables'), np.str_('Bookcases')]",2
+OD-000763,"[np.str_('Labels'), np.str_('Copiers')]",2
+OD-000764,"[np.str_('Bookcases'), np.str_('Tables'), np.str_('Accessories'), np.str_('Chairs')]",4
+OD-000765,"[np.str_('Binders'), np.str_('Phones'), np.str_('Supplies'), np.str_('Tables')]",4
+OD-000766,"[np.str_('Phones'), np.str_('Chairs'), np.str_('Tables'), np.str_('Machines'), np.str_('Furnishings')]",5
+OD-000767,"[np.str_('Labels'), np.str_('Accessories')]",2
+OD-000768,"[np.str_('Phones'), np.str_('Tables'), np.str_('Storage')]",3
+OD-000769,"[np.str_('Bookcases'), np.str_('Supplies'), np.str_('Machines'), np.str_('Accessories')]",4
+OD-000770,"[np.str_('Phones'), np.str_('Tables'), np.str_('Binders'), np.str_('Machines'), np.str_('Furnishings')]",5
+OD-000771,"[np.str_('Paper'), np.str_('Storage'), np.str_('Furnishings')]",3
+OD-000772,"[np.str_('Accessories'), np.str_('Binders')]",2
+OD-000773,"[np.str_('Phones'), np.str_('Supplies'), np.str_('Furnishings')]",3
+OD-000774,"[np.str_('Labels'), np.str_('Paper'), np.str_('Copiers'), np.str_('Binders')]",4
+OD-000775,"[np.str_('Machines'), np.str_('Binders'), np.str_('Supplies')]",3
+OD-000776,"[np.str_('Binders'), np.str_('Machines'), np.str_('Tables')]",3
+OD-000777,"[np.str_('Tables'), np.str_('Storage'), np.str_('Supplies')]",3
+OD-000778,"[np.str_('Paper'), np.str_('Tables'), np.str_('Furnishings')]",3
+OD-000779,"[np.str_('Chairs'), np.str_('Tables'), np.str_('Machines'), np.str_('Copiers'), np.str_('Supplies')]",5
+OD-000780,"[np.str_('Binders'), np.str_('Storage')]",2
+OD-000781,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Phones'), np.str_('Supplies')]",4
+OD-000782,"[np.str_('Bookcases'), np.str_('Copiers')]",2
+OD-000783,"[np.str_('Phones'), np.str_('Tables'), np.str_('Binders'), np.str_('Storage'), np.str_('Supplies')]",5
+OD-000784,"[np.str_('Accessories'), np.str_('Bookcases'), np.str_('Binders'), np.str_('Furnishings'), np.str_('Supplies')]",5
+OD-000785,"[np.str_('Tables'), np.str_('Phones'), np.str_('Chairs')]",3
+OD-000786,"[np.str_('Bookcases'), np.str_('Phones'), np.str_('Chairs')]",3
+OD-000787,"[np.str_('Labels'), np.str_('Tables')]",2
+OD-000788,"[np.str_('Labels'), np.str_('Bookcases'), np.str_('Storage'), np.str_('Machines')]",4
+OD-000789,"[np.str_('Phones'), np.str_('Chairs'), np.str_('Labels'), np.str_('Tables'), np.str_('Machines')]",5
+OD-000790,"[np.str_('Accessories'), np.str_('Paper'), np.str_('Phones')]",3
+OD-000791,"[np.str_('Bookcases'), np.str_('Phones'), np.str_('Machines'), np.str_('Accessories')]",4
+OD-000792,"[np.str_('Tables'), np.str_('Supplies')]",2
+OD-000793,"[np.str_('Accessories'), np.str_('Paper'), np.str_('Bookcases'), np.str_('Tables')]",4
+OD-000794,"[np.str_('Supplies'), np.str_('Machines'), np.str_('Chairs')]",3
+OD-000795,"[np.str_('Accessories'), np.str_('Chairs')]",2
+OD-000796,"[np.str_('Bookcases'), np.str_('Paper'), np.str_('Supplies')]",3
+OD-000797,"[np.str_('Copiers'), np.str_('Machines'), np.str_('Chairs')]",3
+OD-000798,"[np.str_('Machines'), np.str_('Chairs')]",2
+OD-000799,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Chairs')]",3
+OD-000800,"[np.str_('Accessories'), np.str_('Bookcases')]",2
+OD-000801,"[np.str_('Labels'), np.str_('Tables')]",2
+OD-000802,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Paper'), np.str_('Chairs')]",4
+OD-000803,"[np.str_('Labels'), np.str_('Accessories'), np.str_('Tables'), np.str_('Furnishings')]",4
+OD-000804,"[np.str_('Paper'), np.str_('Supplies')]",2
+OD-000805,"[np.str_('Labels'), np.str_('Paper'), np.str_('Bookcases'), np.str_('Tables')]",4
+OD-000806,"[np.str_('Accessories'), np.str_('Storage'), np.str_('Machines')]",3
+OD-000807,"[np.str_('Tables'), np.str_('Bookcases')]",2
+OD-000808,"[np.str_('Paper'), np.str_('Supplies')]",2
+OD-000809,"[np.str_('Bookcases'), np.str_('Supplies'), np.str_('Storage'), np.str_('Machines')]",4
+OD-000810,"[np.str_('Chairs'), np.str_('Furnishings')]",2
+OD-000811,"[np.str_('Paper'), np.str_('Binders'), np.str_('Tables'), np.str_('Machines'), np.str_('Storage')]",5
+OD-000812,"[np.str_('Binders'), np.str_('Paper'), np.str_('Phones')]",3
+OD-000813,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-000814,"[np.str_('Labels'), np.str_('Tables'), np.str_('Binders'), np.str_('Machines')]",4
+OD-000815,"[np.str_('Bookcases'), np.str_('Copiers'), np.str_('Binders'), np.str_('Furnishings')]",4
+OD-000816,"[np.str_('Paper'), np.str_('Storage')]",2
+OD-000817,"[np.str_('Labels'), np.str_('Machines'), np.str_('Chairs')]",3
+OD-000818,"[np.str_('Tables'), np.str_('Furnishings')]",2
+OD-000819,"[np.str_('Tables'), np.str_('Bookcases'), np.str_('Supplies'), np.str_('Furnishings')]",4
+OD-000820,"[np.str_('Labels'), np.str_('Bookcases'), np.str_('Accessories'), np.str_('Chairs')]",4
+OD-000821,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-000822,"[np.str_('Tables'), np.str_('Accessories')]",2
+OD-000823,"[np.str_('Paper'), np.str_('Accessories'), np.str_('Phones'), np.str_('Chairs'), np.str_('Binders')]",5
+OD-000824,"[np.str_('Paper'), np.str_('Binders')]",2
+OD-000825,"[np.str_('Binders'), np.str_('Furnishings')]",2
+OD-000826,"[np.str_('Chairs'), np.str_('Binders'), np.str_('Supplies'), np.str_('Furnishings')]",4
+OD-000827,"[np.str_('Binders'), np.str_('Storage'), np.str_('Bookcases'), np.str_('Furnishings')]",4
+OD-000828,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Phones')]",3
+OD-000829,"[np.str_('Paper'), np.str_('Accessories')]",2
+OD-000830,"[np.str_('Labels'), np.str_('Machines')]",2
+OD-000831,"[np.str_('Labels'), np.str_('Paper'), np.str_('Phones')]",3
+OD-000832,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Phones'), np.str_('Furnishings')]",4
+OD-000833,"[np.str_('Bookcases'), np.str_('Copiers')]",2
+OD-000834,"[np.str_('Accessories'), np.str_('Machines')]",2
+OD-000835,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Tables')]",3
+OD-000836,"[np.str_('Accessories'), np.str_('Paper'), np.str_('Supplies'), np.str_('Chairs')]",4
+OD-000837,"[np.str_('Copiers'), np.str_('Storage'), np.str_('Furnishings')]",3
+OD-000838,"[np.str_('Tables'), np.str_('Phones')]",2
+OD-000839,"[np.str_('Chairs'), np.str_('Machines'), np.str_('Furnishings'), np.str_('Copiers'), np.str_('Storage')]",5
+OD-000840,"[np.str_('Tables'), np.str_('Binders')]",2
+OD-000841,"[np.str_('Labels'), np.str_('Binders'), np.str_('Tables')]",3
+OD-000842,"[np.str_('Machines'), np.str_('Supplies'), np.str_('Chairs')]",3
+OD-000843,"[np.str_('Labels'), np.str_('Supplies')]",2
+OD-000844,"[np.str_('Labels'), np.str_('Bookcases'), np.str_('Tables'), np.str_('Furnishings')]",4
+OD-000845,"[np.str_('Bookcases'), np.str_('Phones'), np.str_('Accessories')]",3
+OD-000846,"[np.str_('Binders'), np.str_('Labels'), np.str_('Bookcases')]",3
+OD-000847,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Chairs'), np.str_('Bookcases'), np.str_('Machines')]",5
+OD-000848,"[np.str_('Accessories'), np.str_('Machines')]",2
+OD-000849,"[np.str_('Chairs'), np.str_('Supplies'), np.str_('Furnishings')]",3
+OD-000850,"[np.str_('Paper'), np.str_('Labels'), np.str_('Tables'), np.str_('Machines'), np.str_('Furnishings')]",5
+OD-000851,"[np.str_('Bookcases'), np.str_('Binders'), np.str_('Accessories')]",3
+OD-000852,"[np.str_('Chairs'), np.str_('Accessories'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-000853,"[np.str_('Storage'), np.str_('Machines')]",2
+OD-000854,"[np.str_('Tables'), np.str_('Copiers')]",2
+OD-000855,"[np.str_('Paper'), np.str_('Binders'), np.str_('Tables'), np.str_('Copiers'), np.str_('Supplies')]",5
+OD-000856,"[np.str_('Labels'), np.str_('Accessories'), np.str_('Copiers')]",3
+OD-000857,"[np.str_('Copiers'), np.str_('Storage'), np.str_('Supplies'), np.str_('Chairs')]",4
+OD-000858,"[np.str_('Copiers'), np.str_('Storage')]",2
+OD-000859,"[np.str_('Phones'), np.str_('Chairs'), np.str_('Labels'), np.str_('Binders'), np.str_('Storage')]",5
+OD-000860,"[np.str_('Tables'), np.str_('Phones'), np.str_('Accessories')]",3
+OD-000861,"[np.str_('Bookcases'), np.str_('Storage')]",2
+OD-000862,"[np.str_('Bookcases'), np.str_('Copiers'), np.str_('Accessories'), np.str_('Furnishings')]",4
+OD-000864,"[np.str_('Labels'), np.str_('Bookcases'), np.str_('Phones')]",3
+OD-000865,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Supplies')]",3
+OD-000866,"[np.str_('Copiers'), np.str_('Supplies')]",2
+OD-000867,"[np.str_('Accessories'), np.str_('Phones')]",2
+OD-000868,"[np.str_('Paper'), np.str_('Supplies'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-000869,"[np.str_('Labels'), np.str_('Furnishings')]",2
+OD-000870,"[np.str_('Phones'), np.str_('Furnishings')]",2
+OD-000871,"[np.str_('Bookcases'), np.str_('Phones'), np.str_('Supplies'), np.str_('Accessories')]",4
+OD-000872,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Accessories'), np.str_('Furnishings')]",4
+OD-000873,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Bookcases')]",3
+OD-000874,"[np.str_('Copiers'), np.str_('Machines')]",2
+OD-000875,"[np.str_('Phones'), np.str_('Chairs'), np.str_('Tables'), np.str_('Binders'), np.str_('Supplies')]",5
+OD-000876,"[np.str_('Accessories'), np.str_('Chairs'), np.str_('Binders'), np.str_('Furnishings'), np.str_('Copiers')]",5
+OD-000877,"[np.str_('Chairs'), np.str_('Binders'), np.str_('Phones'), np.str_('Furnishings')]",4
+OD-000878,"[np.str_('Bookcases'), np.str_('Storage'), np.str_('Furnishings')]",3
+OD-000879,"[np.str_('Accessories'), np.str_('Chairs')]",2
+OD-000880,"[np.str_('Tables'), np.str_('Bookcases'), np.str_('Chairs')]",3
+OD-000881,"[np.str_('Copiers'), np.str_('Storage'), np.str_('Machines')]",3
+OD-000882,"[np.str_('Bookcases'), np.str_('Phones')]",2
+OD-000883,"[np.str_('Labels'), np.str_('Binders'), np.str_('Storage'), np.str_('Furnishings')]",4
+OD-000884,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Furnishings')]",3
+OD-000885,"[np.str_('Labels'), np.str_('Tables'), np.str_('Machines'), np.str_('Furnishings'), np.str_('Copiers')]",5
+OD-000886,"[np.str_('Copiers'), np.str_('Accessories'), np.str_('Paper'), np.str_('Phones')]",4
+OD-000887,"[np.str_('Binders'), np.str_('Phones'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-000888,"[np.str_('Paper'), np.str_('Phones'), np.str_('Furnishings'), np.str_('Copiers'), np.str_('Supplies')]",5
+OD-000889,"[np.str_('Tables'), np.str_('Machines')]",2
+OD-000890,"[np.str_('Machines'), np.str_('Chairs')]",2
+OD-000891,"[np.str_('Bookcases'), np.str_('Binders')]",2
+OD-000892,"[np.str_('Furnishings'), np.str_('Bookcases'), np.str_('Phones'), np.str_('Chairs')]",4
+OD-000893,"[np.str_('Phones'), np.str_('Labels'), np.str_('Machines'), np.str_('Furnishings'), np.str_('Supplies')]",5
+OD-000894,"[np.str_('Furnishings'), np.str_('Labels'), np.str_('Accessories'), np.str_('Chairs')]",4
+OD-000895,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Phones'), np.str_('Supplies')]",4
+OD-000897,"[np.str_('Labels'), np.str_('Binders')]",2
+OD-000898,"[np.str_('Binders'), np.str_('Paper'), np.str_('Storage'), np.str_('Supplies')]",4
+OD-000899,"[np.str_('Binders'), np.str_('Supplies'), np.str_('Tables')]",3
+OD-000900,"[np.str_('Accessories'), np.str_('Supplies'), np.str_('Tables')]",3
+OD-000901,"[np.str_('Phones'), np.str_('Machines')]",2
+OD-000902,"[np.str_('Copiers'), np.str_('Phones')]",2
+OD-000903,"[np.str_('Labels'), np.str_('Bookcases'), np.str_('Supplies'), np.str_('Chairs')]",4
+OD-000904,"[np.str_('Machines'), np.str_('Furnishings')]",2
+OD-000905,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Phones'), np.str_('Chairs')]",4
+OD-000906,"[np.str_('Accessories'), np.str_('Labels'), np.str_('Tables'), np.str_('Machines'), np.str_('Copiers')]",5
+OD-000907,"[np.str_('Machines'), np.str_('Tables'), np.str_('Supplies')]",3
+OD-000908,"[np.str_('Paper'), np.str_('Machines'), np.str_('Furnishings')]",3
+OD-000909,"[np.str_('Binders'), np.str_('Furnishings')]",2
+OD-000910,"[np.str_('Accessories'), np.str_('Tables'), np.str_('Copiers'), np.str_('Storage'), np.str_('Supplies')]",5
+OD-000911,"[np.str_('Binders'), np.str_('Chairs')]",2
+OD-000912,"[np.str_('Accessories'), np.str_('Furnishings')]",2
+OD-000913,"[np.str_('Phones'), np.str_('Accessories'), np.str_('Copiers'), np.str_('Binders')]",4
+OD-000914,"[np.str_('Copiers'), np.str_('Storage'), np.str_('Supplies')]",3
+OD-000915,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Furnishings')]",3
+OD-000916,"[np.str_('Tables'), np.str_('Paper'), np.str_('Chairs')]",3
+OD-000917,"[np.str_('Labels'), np.str_('Paper'), np.str_('Bookcases')]",3
+OD-000918,"[np.str_('Chairs'), np.str_('Bookcases'), np.str_('Supplies'), np.str_('Furnishings')]",4
+OD-000919,"[np.str_('Bookcases'), np.str_('Supplies'), np.str_('Chairs')]",3
+OD-000921,"[np.str_('Bookcases'), np.str_('Paper')]",2
+OD-000922,"[np.str_('Furnishings'), np.str_('Bookcases'), np.str_('Chairs')]",3
+OD-000923,"[np.str_('Tables'), np.str_('Storage')]",2
+OD-000924,"[np.str_('Tables'), np.str_('Phones')]",2
+OD-000925,"[np.str_('Bookcases'), np.str_('Copiers')]",2
+OD-000926,"[np.str_('Paper'), np.str_('Phones')]",2
+OD-000927,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Phones'), np.str_('Machines')]",4
+OD-000928,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Phones'), np.str_('Machines')]",4
+OD-000929,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Binders')]",3
+OD-000930,"[np.str_('Binders'), np.str_('Phones'), np.str_('Chairs')]",3
+OD-000931,"[np.str_('Binders'), np.str_('Bookcases'), np.str_('Supplies'), np.str_('Furnishings')]",4
+OD-000932,"[np.str_('Phones'), np.str_('Machines')]",2
+OD-000933,"[np.str_('Copiers'), np.str_('Storage'), np.str_('Supplies'), np.str_('Chairs')]",4
+OD-000934,"[np.str_('Accessories'), np.str_('Supplies'), np.str_('Machines')]",3
+OD-000935,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Phones'), np.str_('Bookcases')]",4
+OD-000936,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Supplies')]",3
+OD-000937,"[np.str_('Phones'), np.str_('Accessories'), np.str_('Bookcases'), np.str_('Tables')]",4
+OD-000939,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Labels'), np.str_('Bookcases'), np.str_('Furnishings')]",5
+OD-000940,"[np.str_('Paper'), np.str_('Phones'), np.str_('Bookcases'), np.str_('Copiers'), np.str_('Storage')]",5
+OD-000941,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Phones'), np.str_('Machines')]",4
+OD-000942,"[np.str_('Accessories'), np.str_('Paper'), np.str_('Storage'), np.str_('Chairs')]",4
+OD-000943,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Supplies'), np.str_('Furnishings')]",4
+OD-000944,"[np.str_('Phones'), np.str_('Furnishings')]",2
+OD-000945,"[np.str_('Paper'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-000946,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Phones'), np.str_('Supplies')]",4
+OD-000947,"[np.str_('Paper'), np.str_('Chairs'), np.str_('Machines'), np.str_('Furnishings'), np.str_('Supplies')]",5
+OD-000948,"[np.str_('Paper'), np.str_('Phones'), np.str_('Labels'), np.str_('Machines'), np.str_('Copiers')]",5
+OD-000949,"[np.str_('Accessories'), np.str_('Tables'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Furnishings')]",5
+OD-000950,"[np.str_('Binders'), np.str_('Phones')]",2
+OD-000952,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Tables'), np.str_('Furnishings')]",4
+OD-000953,"[np.str_('Paper'), np.str_('Accessories'), np.str_('Chairs')]",3
+OD-000954,"[np.str_('Copiers'), np.str_('Machines')]",2
+OD-000955,"[np.str_('Paper'), np.str_('Tables'), np.str_('Accessories')]",3
+OD-000956,"[np.str_('Storage'), np.str_('Furnishings')]",2
+OD-000957,"[np.str_('Copiers'), np.str_('Chairs')]",2
+OD-000958,"[np.str_('Phones'), np.str_('Labels'), np.str_('Accessories'), np.str_('Storage')]",4
+OD-000959,"[np.str_('Chairs'), np.str_('Machines'), np.str_('Furnishings'), np.str_('Copiers'), np.str_('Storage')]",5
+OD-000960,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Phones')]",3
+OD-000961,"[np.str_('Supplies'), np.str_('Paper'), np.str_('Binders'), np.str_('Machines')]",4
+OD-000962,"[np.str_('Binders'), np.str_('Phones'), np.str_('Furnishings')]",3
+OD-000963,"[np.str_('Phones'), np.str_('Paper'), np.str_('Binders'), np.str_('Supplies')]",4
+OD-000964,"[np.str_('Accessories'), np.str_('Paper'), np.str_('Phones')]",3
+OD-000965,"[np.str_('Bookcases'), np.str_('Paper'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-000966,"[np.str_('Accessories'), np.str_('Chairs')]",2
+OD-000967,"[np.str_('Copiers'), np.str_('Phones'), np.str_('Machines')]",3
+OD-000968,"[np.str_('Chairs'), np.str_('Furnishings')]",2
+OD-000969,"[np.str_('Furnishings'), np.str_('Supplies'), np.str_('Chairs')]",3
+OD-000970,"[np.str_('Accessories'), np.str_('Bookcases'), np.str_('Tables'), np.str_('Furnishings')]",4
+OD-000971,"[np.str_('Accessories'), np.str_('Machines')]",2
+OD-000972,"[np.str_('Binders'), np.str_('Phones')]",2
+OD-000973,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Supplies')]",3
+OD-000974,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Chairs')]",3
+OD-000975,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Furnishings')]",3
+OD-000976,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Tables'), np.str_('Chairs')]",4
+OD-000977,"[np.str_('Copiers'), np.str_('Storage')]",2
+OD-000978,"[np.str_('Binders'), np.str_('Tables'), np.str_('Phones'), np.str_('Furnishings')]",4
+OD-000979,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Tables')]",3
+OD-000980,"[np.str_('Binders'), np.str_('Storage'), np.str_('Accessories')]",3
+OD-000981,"[np.str_('Chairs'), np.str_('Machines'), np.str_('Furnishings')]",3
+OD-000982,"[np.str_('Chairs'), np.str_('Accessories'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-000983,"[np.str_('Tables'), np.str_('Storage'), np.str_('Accessories')]",3
+OD-000984,"[np.str_('Labels'), np.str_('Bookcases'), np.str_('Phones'), np.str_('Chairs')]",4
+OD-000986,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Phones'), np.str_('Paper')]",4
+OD-000987,"[np.str_('Storage'), np.str_('Furnishings')]",2
+OD-000988,"[np.str_('Copiers'), np.str_('Furnishings')]",2
+OD-000989,"[np.str_('Copiers'), np.str_('Machines')]",2
+OD-000990,"[np.str_('Tables'), np.str_('Chairs')]",2
+OD-000991,"[np.str_('Tables'), np.str_('Phones'), np.str_('Accessories')]",3
+OD-000992,"[np.str_('Bookcases'), np.str_('Paper'), np.str_('Storage')]",3
+OD-000993,"[np.str_('Phones'), np.str_('Bookcases'), np.str_('Tables'), np.str_('Machines'), np.str_('Furnishings')]",5
+OD-000994,"[np.str_('Bookcases'), np.str_('Paper')]",2
+OD-000995,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Bookcases')]",3
+OD-000996,"[np.str_('Labels'), np.str_('Storage')]",2
+OD-000997,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-000998,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Supplies')]",3
+OD-000999,"[np.str_('Binders'), np.str_('Phones'), np.str_('Supplies'), np.str_('Tables')]",4
+OD-001000,"[np.str_('Storage'), np.str_('Furnishings')]",2
+OD-001001,"[np.str_('Chairs'), np.str_('Binders'), np.str_('Supplies'), np.str_('Furnishings')]",4
+OD-001002,"[np.str_('Labels'), np.str_('Tables'), np.str_('Binders'), np.str_('Machines'), np.str_('Furnishings')]",5
+OD-001004,"[np.str_('Copiers'), np.str_('Bookcases'), np.str_('Paper'), np.str_('Tables')]",4
+OD-001005,"[np.str_('Bookcases'), np.str_('Paper'), np.str_('Binders'), np.str_('Tables')]",4
+OD-001006,"[np.str_('Binders'), np.str_('Labels'), np.str_('Tables'), np.str_('Phones')]",4
+OD-001007,"[np.str_('Binders'), np.str_('Phones'), np.str_('Tables')]",3
+OD-001008,"[np.str_('Accessories'), np.str_('Furnishings')]",2
+OD-001009,"[np.str_('Binders'), np.str_('Storage'), np.str_('Tables')]",3
+OD-001010,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Bookcases'), np.str_('Accessories')]",4
+OD-001011,"[np.str_('Chairs'), np.str_('Labels'), np.str_('Bookcases'), np.str_('Tables'), np.str_('Machines')]",5
+OD-001012,"[np.str_('Accessories'), np.str_('Storage'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-001013,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Phones')]",3
+OD-001014,"[np.str_('Tables'), np.str_('Storage'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-001015,"[np.str_('Phones'), np.str_('Labels'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Furnishings')]",5
+OD-001016,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Machines'), np.str_('Paper')]",4
+OD-001017,"[np.str_('Phones'), np.str_('Bookcases'), np.str_('Storage'), np.str_('Tables')]",4
+OD-001018,"[np.str_('Bookcases'), np.str_('Paper'), np.str_('Accessories')]",3
+OD-001019,"[np.str_('Tables'), np.str_('Paper'), np.str_('Furnishings')]",3
+OD-001020,"[np.str_('Tables'), np.str_('Bookcases'), np.str_('Chairs')]",3
+OD-001021,"[np.str_('Labels'), np.str_('Phones'), np.str_('Chairs')]",3
+OD-001022,"[np.str_('Binders'), np.str_('Machines')]",2
+OD-001023,"[np.str_('Chairs'), np.str_('Copiers'), np.str_('Phones'), np.str_('Furnishings')]",4
+OD-001024,"[np.str_('Tables'), np.str_('Bookcases'), np.str_('Machines')]",3
+OD-001025,"[np.str_('Binders'), np.str_('Accessories'), np.str_('Tables')]",3
+OD-001026,"[np.str_('Binders'), np.str_('Tables'), np.str_('Chairs')]",3
+OD-001027,"[np.str_('Phones'), np.str_('Supplies')]",2
+OD-001028,"[np.str_('Furnishings'), np.str_('Accessories'), np.str_('Chairs')]",3
+OD-001029,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Supplies'), np.str_('Tables')]",4
+OD-001030,"[np.str_('Bookcases'), np.str_('Copiers')]",2
+OD-001031,"[np.str_('Chairs'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-001032,"[np.str_('Bookcases'), np.str_('Supplies'), np.str_('Machines')]",3
+OD-001033,"[np.str_('Chairs'), np.str_('Accessories'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-001034,"[np.str_('Paper'), np.str_('Machines'), np.str_('Chairs')]",3
+OD-001035,"[np.str_('Bookcases'), np.str_('Phones'), np.str_('Furnishings')]",3
+OD-001036,"[np.str_('Furnishings'), np.str_('Chairs')]",2
+OD-001037,"[np.str_('Labels'), np.str_('Paper'), np.str_('Machines'), np.str_('Accessories')]",4
+OD-001038,"[np.str_('Accessories'), np.str_('Storage')]",2
+OD-001039,"[np.str_('Tables'), np.str_('Storage'), np.str_('Machines'), np.str_('Bookcases')]",4
+OD-001040,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Tables'), np.str_('Chairs')]",4
+OD-001041,"[np.str_('Binders'), np.str_('Accessories'), np.str_('Furnishings')]",3
+OD-001042,"[np.str_('Paper'), np.str_('Accessories'), np.str_('Chairs'), np.str_('Machines'), np.str_('Supplies')]",5
+OD-001043,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Storage'), np.str_('Accessories')]",4
+OD-001044,"[np.str_('Binders'), np.str_('Chairs')]",2
+OD-001045,"[np.str_('Labels'), np.str_('Accessories'), np.str_('Chairs'), np.str_('Furnishings')]",4
+OD-001046,"[np.str_('Binders'), np.str_('Machines')]",2
+OD-001047,"[np.str_('Phones'), np.str_('Binders'), np.str_('Labels'), np.str_('Tables'), np.str_('Machines')]",5
+OD-001048,"[np.str_('Binders'), np.str_('Storage'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-001049,"[np.str_('Furnishings'), np.str_('Paper'), np.str_('Copiers'), np.str_('Chairs')]",4
+OD-001050,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Chairs')]",3
+OD-001051,"[np.str_('Accessories'), np.str_('Tables')]",2
+OD-001052,"[np.str_('Bookcases'), np.str_('Copiers'), np.str_('Phones')]",3
+OD-001053,"[np.str_('Labels'), np.str_('Tables'), np.str_('Storage'), np.str_('Accessories')]",4
+OD-001054,"[np.str_('Phones'), np.str_('Labels'), np.str_('Binders'), np.str_('Furnishings'), np.str_('Copiers')]",5
+OD-001055,"[np.str_('Bookcases'), np.str_('Storage'), np.str_('Chairs')]",3
+OD-001056,"[np.str_('Furnishings'), np.str_('Paper'), np.str_('Chairs')]",3
+OD-001057,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Phones')]",3
+OD-001058,"[np.str_('Tables'), np.str_('Storage'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-001059,"[np.str_('Bookcases'), np.str_('Binders'), np.str_('Supplies')]",3
+OD-001060,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Phones'), np.str_('Chairs')]",4
+OD-001061,"[np.str_('Storage'), np.str_('Chairs')]",2
+OD-001062,"[np.str_('Accessories'), np.str_('Machines')]",2
+OD-001063,"[np.str_('Labels'), np.str_('Supplies'), np.str_('Phones'), np.str_('Machines')]",4
+OD-001064,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Phones'), np.str_('Bookcases')]",4
+OD-001065,"[np.str_('Phones'), np.str_('Chairs')]",2
+OD-001066,"[np.str_('Machines'), np.str_('Tables'), np.str_('Storage'), np.str_('Supplies')]",4
+OD-001067,"[np.str_('Labels'), np.str_('Binders'), np.str_('Machines')]",3
+OD-001068,"[np.str_('Chairs'), np.str_('Binders'), np.str_('Storage'), np.str_('Furnishings')]",4
+OD-001069,"[np.str_('Chairs'), np.str_('Paper'), np.str_('Copiers'), np.str_('Furnishings')]",4
+OD-001070,"[np.str_('Machines'), np.str_('Bookcases'), np.str_('Supplies'), np.str_('Chairs')]",4
+OD-001071,"[np.str_('Labels'), np.str_('Storage'), np.str_('Machines')]",3
+OD-001072,"[np.str_('Bookcases'), np.str_('Copiers')]",2
+OD-001073,"[np.str_('Phones'), np.str_('Tables'), np.str_('Copiers'), np.str_('Storage')]",4
+OD-001074,"[np.str_('Paper'), np.str_('Copiers')]",2
+OD-001075,"[np.str_('Chairs'), np.str_('Bookcases'), np.str_('Tables'), np.str_('Furnishings')]",4
+OD-001076,"[np.str_('Labels'), np.str_('Paper'), np.str_('Phones')]",3
+OD-001077,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Machines')]",3
+OD-001078,"[np.str_('Accessories'), np.str_('Furnishings')]",2
+OD-001079,"[np.str_('Paper'), np.str_('Supplies')]",2
+OD-001081,"[np.str_('Copiers'), np.str_('Furnishings')]",2
+OD-001082,"[np.str_('Copiers'), np.str_('Machines')]",2
+OD-001083,"[np.str_('Supplies'), np.str_('Chairs')]",2
+OD-001085,"[np.str_('Paper'), np.str_('Accessories'), np.str_('Furnishings')]",3
+OD-001086,"[np.str_('Phones'), np.str_('Binders'), np.str_('Tables'), np.str_('Copiers'), np.str_('Storage')]",5
+OD-001087,"[np.str_('Paper'), np.str_('Storage'), np.str_('Supplies'), np.str_('Accessories')]",4
+OD-001088,"[np.str_('Phones'), np.str_('Binders'), np.str_('Copiers'), np.str_('Storage')]",4
+OD-001089,"[np.str_('Accessories'), np.str_('Chairs')]",2
+OD-001090,"[np.str_('Accessories'), np.str_('Machines')]",2
+OD-001092,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Supplies')]",3
+OD-001093,"[np.str_('Phones'), np.str_('Binders'), np.str_('Storage'), np.str_('Supplies')]",4
+OD-001094,"[np.str_('Labels'), np.str_('Tables'), np.str_('Bookcases'), np.str_('Supplies')]",4
+OD-001095,"[np.str_('Paper'), np.str_('Accessories'), np.str_('Phones'), np.str_('Machines'), np.str_('Supplies')]",5
+OD-001096,"[np.str_('Supplies'), np.str_('Machines'), np.str_('Furnishings')]",3
+OD-001097,"[np.str_('Chairs'), np.str_('Labels'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Furnishings')]",5
+OD-001098,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Storage'), np.str_('Chairs')]",4
+OD-001099,"[np.str_('Phones'), np.str_('Supplies')]",2
+OD-001100,"[np.str_('Labels'), np.str_('Phones'), np.str_('Chairs')]",3
+OD-001101,"[np.str_('Labels'), np.str_('Paper'), np.str_('Machines'), np.str_('Tables')]",4
+OD-001103,"[np.str_('Accessories'), np.str_('Supplies')]",2
+OD-001104,"[np.str_('Furnishings'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-001105,"[np.str_('Machines'), np.str_('Furnishings')]",2
+OD-001106,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Phones')]",3
+OD-001107,"[np.str_('Binders'), np.str_('Chairs')]",2
+OD-001108,"[np.str_('Bookcases'), np.str_('Phones'), np.str_('Tables')]",3
+OD-001109,"[np.str_('Tables'), np.str_('Storage')]",2
+OD-001110,"[np.str_('Labels'), np.str_('Supplies'), np.str_('Chairs')]",3
+OD-001111,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Supplies'), np.str_('Accessories')]",4
+OD-001112,"[np.str_('Tables'), np.str_('Paper'), np.str_('Phones'), np.str_('Accessories')]",4
+OD-001113,"[np.str_('Tables'), np.str_('Machines')]",2
+OD-001114,"[np.str_('Bookcases'), np.str_('Copiers'), np.str_('Tables')]",3
+OD-001115,"[np.str_('Phones'), np.str_('Accessories'), np.str_('Storage')]",3
+OD-001116,"[np.str_('Binders'), np.str_('Copiers')]",2
+OD-001117,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Accessories')]",3
+OD-001118,"[np.str_('Labels'), np.str_('Paper'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-001119,"[np.str_('Copiers'), np.str_('Machines')]",2
+OD-001120,"[np.str_('Labels'), np.str_('Accessories'), np.str_('Chairs')]",3
+OD-001121,"[np.str_('Paper'), np.str_('Furnishings')]",2
+OD-001122,"[np.str_('Labels'), np.str_('Binders'), np.str_('Accessories')]",3
+OD-001123,"[np.str_('Accessories'), np.str_('Storage')]",2
+OD-001124,"[np.str_('Labels'), np.str_('Phones'), np.str_('Accessories'), np.str_('Chairs')]",4
+OD-001125,"[np.str_('Binders'), np.str_('Supplies'), np.str_('Furnishings')]",3
+OD-001126,"[np.str_('Tables'), np.str_('Copiers')]",2
+OD-001127,"[np.str_('Bookcases'), np.str_('Storage'), np.str_('Supplies'), np.str_('Accessories')]",4
+OD-001128,"[np.str_('Bookcases'), np.str_('Copiers'), np.str_('Phones'), np.str_('Chairs')]",4
+OD-001129,"[np.str_('Binders'), np.str_('Bookcases'), np.str_('Accessories'), np.str_('Chairs')]",4
+OD-001130,"[np.str_('Phones'), np.str_('Binders'), np.str_('Storage'), np.str_('Machines')]",4
+OD-001131,"[np.str_('Phones'), np.str_('Chairs')]",2
+OD-001132,"[np.str_('Binders'), np.str_('Chairs')]",2
+OD-001135,"[np.str_('Chairs'), np.str_('Binders'), np.str_('Machines'), np.str_('Furnishings'), np.str_('Supplies')]",5
+OD-001136,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Furnishings')]",3
+OD-001137,"[np.str_('Labels'), np.str_('Binders'), np.str_('Tables')]",3
+OD-001138,"[np.str_('Bookcases'), np.str_('Machines')]",2
+OD-001139,"[np.str_('Copiers'), np.str_('Furnishings')]",2
+OD-001140,"[np.str_('Binders'), np.str_('Chairs')]",2
+OD-001141,"[np.str_('Tables'), np.str_('Supplies')]",2
+OD-001142,"[np.str_('Tables'), np.str_('Supplies')]",2
+OD-001143,"[np.str_('Machines'), np.str_('Chairs')]",2
+OD-001144,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Supplies')]",3
+OD-001145,"[np.str_('Phones'), np.str_('Bookcases'), np.str_('Storage')]",3
+OD-001146,"[np.str_('Accessories'), np.str_('Tables')]",2
+OD-001147,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Chairs'), np.str_('Bookcases'), np.str_('Furnishings')]",5
+OD-001148,"[np.str_('Tables'), np.str_('Chairs')]",2
+OD-001149,"[np.str_('Bookcases'), np.str_('Phones'), np.str_('Furnishings')]",3
+OD-001150,"[np.str_('Labels'), np.str_('Binders')]",2
+OD-001151,"[np.str_('Storage'), np.str_('Machines')]",2
+OD-001152,"[np.str_('Accessories'), np.str_('Bookcases'), np.str_('Furnishings'), np.str_('Copiers'), np.str_('Supplies')]",5
+OD-001153,"[np.str_('Bookcases'), np.str_('Chairs')]",2
+OD-001154,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Chairs')]",3
+OD-001155,"[np.str_('Paper'), np.str_('Bookcases'), np.str_('Chairs')]",3
+OD-001156,"[np.str_('Bookcases'), np.str_('Chairs')]",2
+OD-001157,"[np.str_('Bookcases'), np.str_('Accessories')]",2
+OD-001158,"[np.str_('Accessories'), np.str_('Storage')]",2
+OD-001159,"[np.str_('Chairs'), np.str_('Tables'), np.str_('Phones'), np.str_('Furnishings')]",4
+OD-001160,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Storage')]",3
+OD-001161,"[np.str_('Paper'), np.str_('Labels'), np.str_('Binders'), np.str_('Machines'), np.str_('Furnishings')]",5
+OD-001162,"[np.str_('Labels'), np.str_('Copiers')]",2
+OD-001163,"[np.str_('Accessories'), np.str_('Paper'), np.str_('Chairs')]",3
+OD-001164,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Supplies'), np.str_('Chairs')]",4
+OD-001165,"[np.str_('Furnishings'), np.str_('Machines'), np.str_('Chairs')]",3
+OD-001166,"[np.str_('Labels'), np.str_('Tables'), np.str_('Copiers')]",3
+OD-001167,"[np.str_('Labels'), np.str_('Bookcases'), np.str_('Supplies')]",3
+OD-001168,"[np.str_('Tables'), np.str_('Binders'), np.str_('Supplies'), np.str_('Furnishings')]",4
+OD-001169,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Bookcases')]",3
+OD-001170,"[np.str_('Chairs'), np.str_('Labels'), np.str_('Tables'), np.str_('Machines'), np.str_('Supplies')]",5
+OD-001171,"[np.str_('Storage'), np.str_('Machines')]",2
+OD-001173,"[np.str_('Chairs'), np.str_('Paper'), np.str_('Phones'), np.str_('Furnishings')]",4
+OD-001174,"[np.str_('Copiers'), np.str_('Storage')]",2
+OD-001175,"[np.str_('Labels'), np.str_('Tables'), np.str_('Storage'), np.str_('Phones')]",4
+OD-001176,"[np.str_('Paper'), np.str_('Chairs'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Furnishings')]",5
+OD-001177,"[np.str_('Chairs'), np.str_('Binders'), np.str_('Furnishings'), np.str_('Copiers'), np.str_('Supplies')]",5
+OD-001178,"[np.str_('Paper'), np.str_('Accessories'), np.str_('Chairs'), np.str_('Furnishings'), np.str_('Copiers')]",5
+OD-001179,"[np.str_('Tables'), np.str_('Storage'), np.str_('Bookcases')]",3
+OD-001180,"[np.str_('Bookcases'), np.str_('Paper'), np.str_('Furnishings')]",3
+OD-001181,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Chairs'), np.str_('Tables'), np.str_('Binders')]",5
+OD-001182,"[np.str_('Bookcases'), np.str_('Machines'), np.str_('Chairs')]",3
+OD-001183,"[np.str_('Tables'), np.str_('Copiers')]",2
+OD-001184,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Bookcases')]",3
+OD-001185,"[np.str_('Paper'), np.str_('Phones'), np.str_('Supplies')]",3
+OD-001186,"[np.str_('Bookcases'), np.str_('Phones'), np.str_('Machines')]",3
+OD-001187,"[np.str_('Copiers'), np.str_('Accessories'), np.str_('Paper')]",3
+OD-001188,"[np.str_('Bookcases'), np.str_('Paper')]",2
+OD-001189,"[np.str_('Bookcases'), np.str_('Copiers'), np.str_('Storage'), np.str_('Furnishings')]",4
+OD-001190,"[np.str_('Phones'), np.str_('Bookcases'), np.str_('Binders'), np.str_('Chairs')]",4
+OD-001191,"[np.str_('Labels'), np.str_('Tables'), np.str_('Bookcases')]",3
+OD-001192,"[np.str_('Copiers'), np.str_('Storage'), np.str_('Chairs')]",3
+OD-001193,"[np.str_('Labels'), np.str_('Supplies')]",2
+OD-001194,"[np.str_('Labels'), np.str_('Tables'), np.str_('Furnishings')]",3
+OD-001195,"[np.str_('Binders'), np.str_('Phones'), np.str_('Machines')]",3
+OD-001196,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Tables')]",3
+OD-001197,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Chairs'), np.str_('Labels'), np.str_('Copiers')]",5
+OD-001198,"[np.str_('Accessories'), np.str_('Machines')]",2
+OD-001199,"[np.str_('Labels'), np.str_('Copiers')]",2
+OD-001200,"[np.str_('Phones'), np.str_('Binders'), np.str_('Storage')]",3
+OD-001201,"[np.str_('Labels'), np.str_('Paper'), np.str_('Chairs')]",3
+OD-001202,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Phones'), np.str_('Chairs')]",4
+OD-001203,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Phones')]",3
+OD-001204,"[np.str_('Copiers'), np.str_('Labels'), np.str_('Paper'), np.str_('Chairs')]",4
+OD-001205,"[np.str_('Binders'), np.str_('Phones')]",2
+OD-001206,"[np.str_('Storage'), np.str_('Chairs')]",2
+OD-001207,"[np.str_('Labels'), np.str_('Tables'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-001208,"[np.str_('Furnishings'), np.str_('Chairs')]",2
+OD-001209,"[np.str_('Phones'), np.str_('Chairs'), np.str_('Tables'), np.str_('Copiers'), np.str_('Storage')]",5
+OD-001210,"[np.str_('Accessories'), np.str_('Binders'), np.str_('Tables'), np.str_('Copiers'), np.str_('Storage')]",5
+OD-001211,"[np.str_('Chairs'), np.str_('Bookcases'), np.str_('Binders'), np.str_('Machines'), np.str_('Copiers')]",5
+OD-001212,"[np.str_('Binders'), np.str_('Storage'), np.str_('Bookcases'), np.str_('Chairs')]",4
+OD-001213,"[np.str_('Copiers'), np.str_('Chairs')]",2
+OD-001214,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Binders')]",3
+OD-001215,"[np.str_('Chairs'), np.str_('Labels'), np.str_('Copiers'), np.str_('Furnishings')]",4
+OD-001216,"[np.str_('Tables'), np.str_('Phones'), np.str_('Supplies')]",3
+OD-001217,"[np.str_('Tables'), np.str_('Storage'), np.str_('Chairs')]",3
+OD-001219,"[np.str_('Bookcases'), np.str_('Storage'), np.str_('Furnishings')]",3
+OD-001220,"[np.str_('Phones'), np.str_('Chairs')]",2
+OD-001221,"[np.str_('Labels'), np.str_('Bookcases'), np.str_('Chairs')]",3
+OD-001222,"[np.str_('Copiers'), np.str_('Storage'), np.str_('Supplies')]",3
+OD-001223,"[np.str_('Bookcases'), np.str_('Storage'), np.str_('Binders'), np.str_('Furnishings')]",4
+OD-001224,"[np.str_('Labels'), np.str_('Phones'), np.str_('Accessories')]",3
+OD-001225,"[np.str_('Paper'), np.str_('Binders'), np.str_('Supplies')]",3
+OD-001226,"[np.str_('Paper'), np.str_('Phones'), np.str_('Chairs'), np.str_('Labels'), np.str_('Binders')]",5
+OD-001227,"[np.str_('Labels'), np.str_('Binders'), np.str_('Phones'), np.str_('Chairs')]",4
+OD-001228,"[np.str_('Bookcases'), np.str_('Phones'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-001229,"[np.str_('Labels'), np.str_('Bookcases'), np.str_('Copiers')]",3
+OD-001230,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Machines')]",3
+OD-001231,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Storage'), np.str_('Machines')]",4
+OD-001232,"[np.str_('Binders'), np.str_('Phones'), np.str_('Bookcases'), np.str_('Chairs')]",4
+OD-001233,"[np.str_('Machines'), np.str_('Bookcases'), np.str_('Supplies')]",3
+OD-001234,"[np.str_('Tables'), np.str_('Furnishings')]",2
+OD-001235,"[np.str_('Bookcases'), np.str_('Copiers'), np.str_('Supplies'), np.str_('Paper')]",4
+OD-001236,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Storage')]",3
+OD-001237,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Chairs'), np.str_('Binders'), np.str_('Supplies')]",5
+OD-001238,"[np.str_('Paper'), np.str_('Chairs'), np.str_('Binders'), np.str_('Labels'), np.str_('Storage')]",5
+OD-001239,"[np.str_('Paper'), np.str_('Phones'), np.str_('Chairs'), np.str_('Furnishings'), np.str_('Copiers')]",5
+OD-001240,"[np.str_('Paper'), np.str_('Phones'), np.str_('Tables')]",3
+OD-001241,"[np.str_('Chairs'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Copiers'), np.str_('Storage')]",5
+OD-001242,"[np.str_('Labels'), np.str_('Furnishings')]",2
+OD-001243,"[np.str_('Phones'), np.str_('Chairs'), np.str_('Binders'), np.str_('Bookcases'), np.str_('Supplies')]",5
+OD-001244,"[np.str_('Accessories'), np.str_('Supplies')]",2
+OD-001245,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Binders'), np.str_('Tables'), np.str_('Furnishings')]",5
+OD-001246,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Phones')]",3
+OD-001247,"[np.str_('Bookcases'), np.str_('Paper')]",2
+OD-001248,"[np.str_('Binders'), np.str_('Storage'), np.str_('Chairs')]",3
+OD-001249,"[np.str_('Tables'), np.str_('Bookcases')]",2
+OD-001250,"[np.str_('Labels'), np.str_('Binders')]",2
+OD-001251,"[np.str_('Accessories'), np.str_('Chairs'), np.str_('Tables'), np.str_('Machines'), np.str_('Supplies')]",5
+OD-001252,"[np.str_('Labels'), np.str_('Supplies'), np.str_('Phones'), np.str_('Machines')]",4
+OD-001253,"[np.str_('Bookcases'), np.str_('Accessories'), np.str_('Chairs')]",3
+OD-001254,"[np.str_('Storage'), np.str_('Chairs')]",2
+OD-001255,"[np.str_('Phones'), np.str_('Binders'), np.str_('Machines'), np.str_('Furnishings'), np.str_('Storage')]",5
+OD-001256,"[np.str_('Supplies'), np.str_('Chairs')]",2
+OD-001257,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Labels'), np.str_('Machines'), np.str_('Furnishings')]",5
+OD-001258,"[np.str_('Binders'), np.str_('Paper'), np.str_('Bookcases')]",3
+OD-001259,"[np.str_('Binders'), np.str_('Storage')]",2
+OD-001260,"[np.str_('Paper'), np.str_('Supplies'), np.str_('Furnishings')]",3
+OD-001261,"[np.str_('Phones'), np.str_('Machines')]",2
+OD-001262,"[np.str_('Tables'), np.str_('Binders')]",2
+OD-001263,"[np.str_('Copiers'), np.str_('Storage')]",2
+OD-001264,"[np.str_('Paper'), np.str_('Accessories')]",2
+OD-001265,"[np.str_('Bookcases'), np.str_('Copiers')]",2
+OD-001266,"[np.str_('Paper'), np.str_('Machines')]",2
+OD-001267,"[np.str_('Tables'), np.str_('Binders')]",2
+OD-001268,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Chairs')]",3
+OD-001269,"[np.str_('Tables'), np.str_('Phones'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-001270,"[np.str_('Accessories'), np.str_('Bookcases')]",2
+OD-001271,"[np.str_('Copiers'), np.str_('Supplies')]",2
+OD-001272,"[np.str_('Accessories'), np.str_('Machines'), np.str_('Chairs')]",3
+OD-001273,"[np.str_('Binders'), np.str_('Tables'), np.str_('Storage'), np.str_('Chairs')]",4
+OD-001274,"[np.str_('Accessories'), np.str_('Storage'), np.str_('Chairs')]",3
+OD-001275,"[np.str_('Labels'), np.str_('Copiers')]",2
+OD-001276,"[np.str_('Chairs'), np.str_('Copiers'), np.str_('Supplies'), np.str_('Furnishings')]",4
+OD-001277,"[np.str_('Chairs'), np.str_('Labels'), np.str_('Tables'), np.str_('Furnishings'), np.str_('Copiers')]",5
+OD-001278,"[np.str_('Phones'), np.str_('Bookcases'), np.str_('Storage'), np.str_('Chairs')]",4
+OD-001279,"[np.str_('Chairs'), np.str_('Binders'), np.str_('Bookcases'), np.str_('Storage'), np.str_('Supplies')]",5
+OD-001280,"[np.str_('Labels'), np.str_('Storage'), np.str_('Furnishings')]",3
+OD-001281,"[np.str_('Labels'), np.str_('Furnishings')]",2
+OD-001282,"[np.str_('Binders'), np.str_('Chairs')]",2
+OD-001283,"[np.str_('Labels'), np.str_('Tables'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-001284,"[np.str_('Labels'), np.str_('Phones'), np.str_('Supplies')]",3
+OD-001285,"[np.str_('Supplies'), np.str_('Binders'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-001286,"[np.str_('Labels'), np.str_('Paper'), np.str_('Binders')]",3
+OD-001287,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Phones')]",3
+OD-001288,"[np.str_('Bookcases'), np.str_('Phones'), np.str_('Furnishings')]",3
+OD-001289,"[np.str_('Paper'), np.str_('Phones'), np.str_('Supplies')]",3
+OD-001290,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Furnishings')]",3
+OD-001291,"[np.str_('Paper'), np.str_('Phones'), np.str_('Tables'), np.str_('Machines'), np.str_('Copiers')]",5
+OD-001292,"[np.str_('Binders'), np.str_('Accessories'), np.str_('Furnishings')]",3
+OD-001293,"[np.str_('Labels'), np.str_('Phones'), np.str_('Furnishings')]",3
+OD-001294,"[np.str_('Binders'), np.str_('Labels'), np.str_('Phones')]",3
+OD-001295,"[np.str_('Phones'), np.str_('Accessories'), np.str_('Bookcases')]",3
+OD-001296,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Chairs'), np.str_('Labels'), np.str_('Tables')]",5
+OD-001297,"[np.str_('Labels'), np.str_('Binders'), np.str_('Copiers'), np.str_('Phones')]",4
+OD-001298,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Tables'), np.str_('Furnishings')]",4
+OD-001299,"[np.str_('Bookcases'), np.str_('Binders'), np.str_('Chairs')]",3
+OD-001300,"[np.str_('Accessories'), np.str_('Binders'), np.str_('Tables'), np.str_('Furnishings'), np.str_('Supplies')]",5
+OD-001301,"[np.str_('Tables'), np.str_('Storage'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-001302,"[np.str_('Binders'), np.str_('Storage'), np.str_('Chairs')]",3
+OD-001303,"[np.str_('Labels'), np.str_('Machines')]",2
+OD-001304,"[np.str_('Copiers'), np.str_('Chairs')]",2
+OD-001305,"[np.str_('Accessories'), np.str_('Machines'), np.str_('Chairs')]",3
+OD-001306,"[np.str_('Binders'), np.str_('Furnishings')]",2
+OD-001307,"[np.str_('Paper'), np.str_('Accessories'), np.str_('Chairs'), np.str_('Bookcases'), np.str_('Storage')]",5
+OD-001308,"[np.str_('Machines'), np.str_('Accessories'), np.str_('Storage'), np.str_('Supplies')]",4
+OD-001309,"[np.str_('Labels'), np.str_('Binders')]",2
+OD-001310,"[np.str_('Supplies'), np.str_('Phones'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-001311,"[np.str_('Labels'), np.str_('Phones')]",2
+OD-001312,"[np.str_('Labels'), np.str_('Furnishings')]",2
+OD-001313,"[np.str_('Binders'), np.str_('Paper'), np.str_('Storage'), np.str_('Chairs')]",4
+OD-001314,"[np.str_('Accessories'), np.str_('Phones')]",2
+OD-001315,"[np.str_('Chairs'), np.str_('Accessories'), np.str_('Furnishings')]",3
+OD-001316,"[np.str_('Phones'), np.str_('Machines')]",2
+OD-001317,"[np.str_('Accessories'), np.str_('Bookcases'), np.str_('Supplies'), np.str_('Chairs')]",4
+OD-001318,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-001319,"[np.str_('Tables'), np.str_('Paper'), np.str_('Bookcases')]",3
+OD-001320,"[np.str_('Accessories'), np.str_('Machines'), np.str_('Chairs')]",3
+OD-001321,"[np.str_('Copiers'), np.str_('Chairs')]",2
+OD-001322,"[np.str_('Tables'), np.str_('Storage'), np.str_('Supplies'), np.str_('Bookcases')]",4
+OD-001323,"[np.str_('Copiers'), np.str_('Storage'), np.str_('Furnishings')]",3
+OD-001324,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Phones')]",3
+OD-001325,"[np.str_('Labels'), np.str_('Machines')]",2
+OD-001326,"[np.str_('Copiers'), np.str_('Phones'), np.str_('Machines')]",3
+OD-001327,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Machines')]",3
+OD-001328,"[np.str_('Copiers'), np.str_('Supplies'), np.str_('Chairs')]",3
+OD-001329,"[np.str_('Bookcases'), np.str_('Tables'), np.str_('Furnishings'), np.str_('Storage'), np.str_('Supplies')]",5
+OD-001331,"[np.str_('Accessories'), np.str_('Labels'), np.str_('Bookcases'), np.str_('Tables'), np.str_('Machines')]",5
+OD-001332,"[np.str_('Paper'), np.str_('Accessories'), np.str_('Phones'), np.str_('Labels'), np.str_('Supplies')]",5
+OD-001333,"[np.str_('Paper'), np.str_('Machines'), np.str_('Tables')]",3
+OD-001334,"[np.str_('Paper'), np.str_('Storage'), np.str_('Machines'), np.str_('Tables')]",4
+OD-001335,"[np.str_('Bookcases'), np.str_('Tables')]",2
+OD-001336,"[np.str_('Binders'), np.str_('Storage')]",2
+OD-001337,"[np.str_('Bookcases'), np.str_('Machines')]",2
+OD-001338,"[np.str_('Phones'), np.str_('Chairs'), np.str_('Bookcases'), np.str_('Furnishings'), np.str_('Supplies')]",5
+OD-001339,"[np.str_('Tables'), np.str_('Supplies')]",2
+OD-001340,"[np.str_('Paper'), np.str_('Supplies'), np.str_('Chairs')]",3
+OD-001341,"[np.str_('Labels'), np.str_('Supplies'), np.str_('Machines')]",3
+OD-001342,"[np.str_('Binders'), np.str_('Phones')]",2
+OD-001343,"[np.str_('Phones'), np.str_('Storage')]",2
+OD-001344,"[np.str_('Binders'), np.str_('Supplies'), np.str_('Chairs')]",3
+OD-001345,"[np.str_('Accessories'), np.str_('Paper'), np.str_('Tables'), np.str_('Chairs')]",4
+OD-001346,"[np.str_('Tables'), np.str_('Phones'), np.str_('Machines')]",3
+OD-001347,"[np.str_('Accessories'), np.str_('Paper'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Copiers')]",5
+OD-001348,"[np.str_('Bookcases'), np.str_('Copiers'), np.str_('Supplies')]",3
+OD-001349,"[np.str_('Accessories'), np.str_('Tables'), np.str_('Machines'), np.str_('Storage'), np.str_('Supplies')]",5
+OD-001350,"[np.str_('Storage'), np.str_('Machines')]",2
+OD-001351,"[np.str_('Tables'), np.str_('Storage'), np.str_('Phones'), np.str_('Supplies')]",4
+OD-001352,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Binders')]",3
+OD-001353,"[np.str_('Phones'), np.str_('Binders'), np.str_('Furnishings'), np.str_('Storage'), np.str_('Supplies')]",5
+OD-001354,"[np.str_('Labels'), np.str_('Storage'), np.str_('Furnishings')]",3
+OD-001355,"[np.str_('Labels'), np.str_('Chairs')]",2
+OD-001356,"[np.str_('Bookcases'), np.str_('Machines'), np.str_('Chairs')]",3
+OD-001357,"[np.str_('Labels'), np.str_('Phones'), np.str_('Supplies')]",3
+OD-001358,"[np.str_('Phones'), np.str_('Binders'), np.str_('Furnishings'), np.str_('Copiers'), np.str_('Supplies')]",5
+OD-001359,"[np.str_('Labels'), np.str_('Bookcases'), np.str_('Accessories'), np.str_('Furnishings')]",4
+OD-001360,"[np.str_('Labels'), np.str_('Bookcases'), np.str_('Supplies'), np.str_('Furnishings')]",4
+OD-001361,"[np.str_('Tables'), np.str_('Bookcases'), np.str_('Chairs')]",3
+OD-001362,"[np.str_('Paper'), np.str_('Copiers')]",2
+OD-001363,"[np.str_('Tables'), np.str_('Phones')]",2
+OD-001364,"[np.str_('Bookcases'), np.str_('Chairs')]",2
+OD-001365,"[np.str_('Binders'), np.str_('Copiers')]",2
+OD-001366,"[np.str_('Accessories'), np.str_('Supplies')]",2
+OD-001367,"[np.str_('Labels'), np.str_('Accessories'), np.str_('Furnishings')]",3
+OD-001368,"[np.str_('Binders'), np.str_('Storage'), np.str_('Chairs')]",3
+OD-001369,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Machines')]",3
+OD-001370,"[np.str_('Phones'), np.str_('Machines')]",2
+OD-001371,"[np.str_('Labels'), np.str_('Binders'), np.str_('Supplies')]",3
+OD-001372,"[np.str_('Tables'), np.str_('Supplies'), np.str_('Accessories'), np.str_('Chairs')]",4
+OD-001373,"[np.str_('Labels'), np.str_('Paper'), np.str_('Tables'), np.str_('Chairs')]",4
+OD-001374,"[np.str_('Labels'), np.str_('Accessories'), np.str_('Copiers'), np.str_('Machines')]",4
+OD-001375,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Chairs')]",3
+OD-001376,"[np.str_('Accessories'), np.str_('Bookcases')]",2
+OD-001377,"[np.str_('Accessories'), np.str_('Machines')]",2
+OD-001378,"[np.str_('Labels'), np.str_('Accessories'), np.str_('Storage')]",3
+OD-001379,"[np.str_('Copiers'), np.str_('Furnishings')]",2
+OD-001380,"[np.str_('Accessories'), np.str_('Paper')]",2
+OD-001381,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Binders'), np.str_('Furnishings')]",4
+OD-001382,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Storage')]",3
+OD-001383,"[np.str_('Labels'), np.str_('Accessories'), np.str_('Chairs')]",3
+OD-001384,"[np.str_('Tables'), np.str_('Supplies')]",2
+OD-001385,"[np.str_('Labels'), np.str_('Tables')]",2
+OD-001386,"[np.str_('Bookcases'), np.str_('Accessories'), np.str_('Binders'), np.str_('Tables')]",4
+OD-001387,"[np.str_('Accessories'), np.str_('Machines')]",2
+OD-001388,"[np.str_('Bookcases'), np.str_('Binders'), np.str_('Machines')]",3
+OD-001389,"[np.str_('Phones'), np.str_('Chairs'), np.str_('Binders'), np.str_('Copiers'), np.str_('Supplies')]",5
+OD-001390,"[np.str_('Accessories'), np.str_('Supplies')]",2
+OD-001391,"[np.str_('Chairs'), np.str_('Tables'), np.str_('Supplies'), np.str_('Furnishings')]",4
+OD-001392,"[np.str_('Machines'), np.str_('Chairs')]",2
+OD-001393,"[np.str_('Labels'), np.str_('Paper')]",2
+OD-001394,"[np.str_('Phones'), np.str_('Machines')]",2
+OD-001395,"[np.str_('Copiers'), np.str_('Storage'), np.str_('Phones')]",3
+OD-001396,"[np.str_('Paper'), np.str_('Phones'), np.str_('Binders'), np.str_('Tables'), np.str_('Furnishings')]",5
+OD-001397,"[np.str_('Bookcases'), np.str_('Copiers'), np.str_('Supplies'), np.str_('Tables')]",4
+OD-001398,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Storage'), np.str_('Paper')]",4
+OD-001399,"[np.str_('Paper'), np.str_('Chairs')]",2
+OD-001401,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Chairs')]",3
+OD-001403,"[np.str_('Bookcases'), np.str_('Machines')]",2
+OD-001404,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Chairs')]",3
+OD-001405,"[np.str_('Tables'), np.str_('Phones')]",2
+OD-001406,"[np.str_('Chairs'), np.str_('Labels'), np.str_('Tables'), np.str_('Furnishings'), np.str_('Copiers')]",5
+OD-001407,"[np.str_('Binders'), np.str_('Supplies'), np.str_('Phones'), np.str_('Machines')]",4
+OD-001408,"[np.str_('Phones'), np.str_('Labels'), np.str_('Storage')]",3
+OD-001409,"[np.str_('Accessories'), np.str_('Furnishings')]",2
+OD-001410,"[np.str_('Bookcases'), np.str_('Phones'), np.str_('Furnishings')]",3
+OD-001411,"[np.str_('Accessories'), np.str_('Bookcases')]",2
+OD-001412,"[np.str_('Labels'), np.str_('Tables'), np.str_('Chairs')]",3
+OD-001413,"[np.str_('Phones'), np.str_('Machines'), np.str_('Furnishings')]",3
+OD-001414,"[np.str_('Labels'), np.str_('Paper')]",2
+OD-001415,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Machines')]",3
+OD-001416,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Supplies'), np.str_('Tables')]",4
+OD-001417,"[np.str_('Paper'), np.str_('Accessories'), np.str_('Binders'), np.str_('Tables'), np.str_('Furnishings')]",5
+OD-001418,"[np.str_('Labels'), np.str_('Accessories'), np.str_('Paper')]",3
+OD-001419,"[np.str_('Binders'), np.str_('Labels'), np.str_('Phones')]",3
+OD-001420,"[np.str_('Paper'), np.str_('Chairs')]",2
+OD-001421,"[np.str_('Binders'), np.str_('Paper')]",2
+OD-001422,"[np.str_('Phones'), np.str_('Labels'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Storage')]",5
+OD-001423,"[np.str_('Labels'), np.str_('Phones'), np.str_('Supplies'), np.str_('Bookcases')]",4
+OD-001424,"[np.str_('Bookcases'), np.str_('Phones'), np.str_('Tables')]",3
+OD-001425,"[np.str_('Labels'), np.str_('Tables'), np.str_('Paper'), np.str_('Accessories')]",4
+OD-001426,"[np.str_('Bookcases'), np.str_('Tables'), np.str_('Chairs')]",3
+OD-001427,"[np.str_('Copiers'), np.str_('Machines'), np.str_('Chairs')]",3
+OD-001428,"[np.str_('Paper'), np.str_('Storage'), np.str_('Supplies')]",3
+OD-001429,"[np.str_('Copiers'), np.str_('Bookcases'), np.str_('Paper'), np.str_('Storage')]",4
+OD-001430,"[np.str_('Tables'), np.str_('Bookcases'), np.str_('Furnishings'), np.str_('Copiers'), np.str_('Supplies')]",5
+OD-001431,"[np.str_('Labels'), np.str_('Binders'), np.str_('Bookcases'), np.str_('Machines')]",4
+OD-001432,"[np.str_('Labels'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-001433,"[np.str_('Accessories'), np.str_('Chairs'), np.str_('Tables'), np.str_('Bookcases'), np.str_('Furnishings')]",5
+OD-001434,"[np.str_('Supplies'), np.str_('Phones'), np.str_('Machines')]",3
+OD-001435,"[np.str_('Labels'), np.str_('Binders'), np.str_('Phones')]",3
+OD-001436,"[np.str_('Labels'), np.str_('Chairs')]",2
+OD-001438,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Chairs')]",3
+OD-001439,"[np.str_('Machines'), np.str_('Bookcases'), np.str_('Phones'), np.str_('Supplies')]",4
+OD-001440,"[np.str_('Binders'), np.str_('Machines'), np.str_('Tables')]",3
+OD-001441,"[np.str_('Furnishings'), np.str_('Labels'), np.str_('Storage'), np.str_('Chairs')]",4
+OD-001442,"[np.str_('Labels'), np.str_('Tables'), np.str_('Binders')]",3
+OD-001444,"[np.str_('Bookcases'), np.str_('Copiers'), np.str_('Phones')]",3
+OD-001445,"[np.str_('Phones'), np.str_('Chairs'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Storage')]",5
+OD-001446,"[np.str_('Labels'), np.str_('Chairs')]",2
+OD-001447,"[np.str_('Tables'), np.str_('Paper')]",2
+OD-001448,"[np.str_('Storage'), np.str_('Chairs')]",2
+OD-001449,"[np.str_('Accessories'), np.str_('Copiers')]",2
+OD-001450,"[np.str_('Binders'), np.str_('Machines'), np.str_('Accessories')]",3
+OD-001451,"[np.str_('Machines'), np.str_('Copiers'), np.str_('Supplies')]",3
+OD-001452,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Supplies'), np.str_('Chairs')]",4
+OD-001453,"[np.str_('Labels'), np.str_('Chairs')]",2
+OD-001454,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Phones'), np.str_('Bookcases')]",4
+OD-001455,"[np.str_('Paper'), np.str_('Accessories')]",2
+OD-001456,"[np.str_('Labels'), np.str_('Binders')]",2
+OD-001457,"[np.str_('Phones'), np.str_('Chairs'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Storage')]",5
+OD-001458,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Bookcases')]",3
+OD-001459,"[np.str_('Labels'), np.str_('Bookcases'), np.str_('Copiers'), np.str_('Furnishings')]",4
+OD-001460,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Phones')]",3
+OD-001461,"[np.str_('Storage'), np.str_('Phones'), np.str_('Supplies')]",3
+OD-001462,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Machines'), np.str_('Copiers'), np.str_('Supplies')]",5
+OD-001463,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Phones'), np.str_('Paper')]",4
+OD-001464,"[np.str_('Bookcases'), np.str_('Binders'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-001465,"[np.str_('Copiers'), np.str_('Supplies')]",2
+OD-001466,"[np.str_('Paper'), np.str_('Bookcases')]",2
+OD-001467,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Supplies')]",3
+OD-001468,"[np.str_('Chairs'), np.str_('Copiers'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-001469,"[np.str_('Paper'), np.str_('Accessories')]",2
+OD-001470,"[np.str_('Binders'), np.str_('Furnishings')]",2
+OD-001471,"[np.str_('Paper'), np.str_('Bookcases')]",2
+OD-001472,"[np.str_('Accessories'), np.str_('Copiers')]",2
+OD-001473,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Chairs')]",3
+OD-001474,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Furnishings')]",3
+OD-001475,"[np.str_('Labels'), np.str_('Machines')]",2
+OD-001476,"[np.str_('Paper'), np.str_('Storage')]",2
+OD-001477,"[np.str_('Paper'), np.str_('Binders')]",2
+OD-001478,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Bookcases')]",3
+OD-001479,"[np.str_('Tables'), np.str_('Machines'), np.str_('Chairs')]",3
+OD-001480,"[np.str_('Bookcases'), np.str_('Phones')]",2
+OD-001481,"[np.str_('Binders'), np.str_('Phones'), np.str_('Furnishings')]",3
+OD-001482,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Storage'), np.str_('Chairs')]",4
+OD-001483,"[np.str_('Tables'), np.str_('Storage'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-001484,"[np.str_('Bookcases'), np.str_('Chairs')]",2
+OD-001485,"[np.str_('Labels'), np.str_('Storage'), np.str_('Machines')]",3
+OD-001486,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Accessories')]",3
+OD-001487,"[np.str_('Bookcases'), np.str_('Phones'), np.str_('Supplies'), np.str_('Furnishings')]",4
+OD-001488,"[np.str_('Tables'), np.str_('Copiers')]",2
+OD-001489,"[np.str_('Chairs'), np.str_('Supplies'), np.str_('Furnishings')]",3
+OD-001490,"[np.str_('Paper'), np.str_('Copiers')]",2
+OD-001491,"[np.str_('Storage'), np.str_('Machines')]",2
+OD-001492,"[np.str_('Labels'), np.str_('Paper'), np.str_('Chairs')]",3
+OD-001493,"[np.str_('Labels'), np.str_('Storage'), np.str_('Accessories')]",3
+OD-001494,"[np.str_('Labels'), np.str_('Phones'), np.str_('Supplies')]",3
+OD-001495,"[np.str_('Tables'), np.str_('Storage'), np.str_('Phones')]",3
+OD-001496,"[np.str_('Accessories'), np.str_('Phones')]",2
+OD-001497,"[np.str_('Paper'), np.str_('Storage'), np.str_('Supplies')]",3
+OD-001498,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Supplies')]",3
+OD-001499,"[np.str_('Paper'), np.str_('Tables')]",2
+OD-001500,"[np.str_('Machines'), np.str_('Furnishings')]",2
+OD-001501,"[np.str_('Phones'), np.str_('Chairs')]",2
+OD-001502,"[np.str_('Furnishings'), np.str_('Storage'), np.str_('Supplies'), np.str_('Chairs')]",4
+OD-001503,"[np.str_('Paper'), np.str_('Chairs'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Furnishings')]",5
+OD-001504,"[np.str_('Labels'), np.str_('Tables'), np.str_('Copiers')]",3
+OD-001505,"[np.str_('Binders'), np.str_('Storage'), np.str_('Phones')]",3
+OD-001506,"[np.str_('Copiers'), np.str_('Storage'), np.str_('Furnishings')]",3
+OD-001507,"[np.str_('Bookcases'), np.str_('Storage'), np.str_('Accessories'), np.str_('Furnishings')]",4
+OD-001508,"[np.str_('Bookcases'), np.str_('Machines'), np.str_('Furnishings')]",3
+OD-001509,"[np.str_('Supplies'), np.str_('Furnishings')]",2
+OD-001510,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Phones')]",3
+OD-001511,"[np.str_('Paper'), np.str_('Accessories'), np.str_('Tables'), np.str_('Copiers'), np.str_('Supplies')]",5
+OD-001512,"[np.str_('Paper'), np.str_('Machines')]",2
+OD-001513,"[np.str_('Tables'), np.str_('Phones'), np.str_('Accessories')]",3
+OD-001514,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Accessories'), np.str_('Furnishings')]",4
+OD-001515,"[np.str_('Tables'), np.str_('Accessories')]",2
+OD-001516,"[np.str_('Accessories'), np.str_('Machines')]",2
+OD-001517,"[np.str_('Supplies'), np.str_('Chairs')]",2
+OD-001518,"[np.str_('Paper'), np.str_('Phones'), np.str_('Supplies'), np.str_('Chairs')]",4
+OD-001519,"[np.str_('Paper'), np.str_('Chairs')]",2
+OD-001521,"[np.str_('Phones'), np.str_('Chairs'), np.str_('Binders'), np.str_('Furnishings'), np.str_('Supplies')]",5
+OD-001522,"[np.str_('Phones'), np.str_('Labels'), np.str_('Machines'), np.str_('Copiers'), np.str_('Storage')]",5
+OD-001523,"[np.str_('Accessories'), np.str_('Storage'), np.str_('Supplies'), np.str_('Chairs')]",4
+OD-001524,"[np.str_('Accessories'), np.str_('Labels'), np.str_('Bookcases'), np.str_('Binders'), np.str_('Machines')]",5
+OD-001525,"[np.str_('Bookcases'), np.str_('Chairs')]",2
+OD-001526,"[np.str_('Labels'), np.str_('Bookcases'), np.str_('Machines')]",3
+OD-001527,"[np.str_('Bookcases'), np.str_('Supplies')]",2
+OD-001528,"[np.str_('Labels'), np.str_('Paper'), np.str_('Binders'), np.str_('Tables')]",4
+OD-001529,"[np.str_('Bookcases'), np.str_('Copiers'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-001530,"[np.str_('Phones'), np.str_('Machines')]",2
+OD-001531,"[np.str_('Labels'), np.str_('Machines')]",2
+OD-001532,"[np.str_('Paper'), np.str_('Chairs'), np.str_('Binders'), np.str_('Bookcases'), np.str_('Furnishings')]",5
+OD-001533,"[np.str_('Machines'), np.str_('Furnishings')]",2
+OD-001534,"[np.str_('Labels'), np.str_('Storage'), np.str_('Binders')]",3
+OD-001535,"[np.str_('Chairs'), np.str_('Tables'), np.str_('Binders'), np.str_('Machines'), np.str_('Copiers')]",5
+OD-001536,"[np.str_('Phones'), np.str_('Storage'), np.str_('Chairs')]",3
+OD-001537,"[np.str_('Bookcases'), np.str_('Phones'), np.str_('Supplies')]",3
+OD-001538,"[np.str_('Labels'), np.str_('Bookcases'), np.str_('Phones')]",3
+OD-001539,"[np.str_('Phones'), np.str_('Machines')]",2
+OD-001540,"[np.str_('Paper'), np.str_('Supplies'), np.str_('Machines')]",3
+OD-001541,"[np.str_('Phones'), np.str_('Labels'), np.str_('Binders'), np.str_('Furnishings'), np.str_('Supplies')]",5
+OD-001542,"[np.str_('Accessories'), np.str_('Copiers')]",2
+OD-001543,"[np.str_('Bookcases'), np.str_('Tables'), np.str_('Phones'), np.str_('Accessories')]",4
+OD-001544,"[np.str_('Paper'), np.str_('Phones')]",2
+OD-001545,"[np.str_('Tables'), np.str_('Copiers')]",2
+OD-001546,"[np.str_('Tables'), np.str_('Furnishings')]",2
+OD-001547,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Chairs'), np.str_('Binders'), np.str_('Furnishings')]",5
+OD-001548,"[np.str_('Bookcases'), np.str_('Tables'), np.str_('Machines'), np.str_('Accessories')]",4
+OD-001549,"[np.str_('Tables'), np.str_('Phones'), np.str_('Furnishings')]",3
+OD-001550,"[np.str_('Binders'), np.str_('Supplies'), np.str_('Machines')]",3
+OD-001551,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Machines')]",3
+OD-001552,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Supplies')]",3
+OD-001553,"[np.str_('Paper'), np.str_('Bookcases'), np.str_('Tables'), np.str_('Copiers'), np.str_('Storage')]",5
+OD-001554,"[np.str_('Labels'), np.str_('Accessories'), np.str_('Binders'), np.str_('Tables')]",4
+OD-001555,"[np.str_('Labels'), np.str_('Supplies')]",2
+OD-001556,"[np.str_('Bookcases'), np.str_('Chairs')]",2
+OD-001557,"[np.str_('Bookcases'), np.str_('Phones'), np.str_('Chairs')]",3
+OD-001558,"[np.str_('Bookcases'), np.str_('Supplies'), np.str_('Phones'), np.str_('Machines')]",4
+OD-001559,"[np.str_('Accessories'), np.str_('Paper'), np.str_('Phones'), np.str_('Machines'), np.str_('Copiers')]",5
+OD-001560,"[np.str_('Paper'), np.str_('Furnishings')]",2
+OD-001561,"[np.str_('Bookcases'), np.str_('Supplies')]",2
+OD-001562,"[np.str_('Accessories'), np.str_('Furnishings')]",2
+OD-001563,"[np.str_('Accessories'), np.str_('Bookcases'), np.str_('Supplies')]",3
+OD-001564,"[np.str_('Bookcases'), np.str_('Binders')]",2
+OD-001565,"[np.str_('Tables'), np.str_('Accessories')]",2
+OD-001566,"[np.str_('Paper'), np.str_('Supplies'), np.str_('Machines'), np.str_('Accessories')]",4
+OD-001567,"[np.str_('Phones'), np.str_('Tables'), np.str_('Bookcases')]",3
+OD-001568,"[np.str_('Accessories'), np.str_('Bookcases')]",2
+OD-001569,"[np.str_('Accessories'), np.str_('Paper'), np.str_('Chairs'), np.str_('Bookcases'), np.str_('Tables')]",5
+OD-001570,"[np.str_('Accessories'), np.str_('Paper'), np.str_('Binders')]",3
+OD-001571,"[np.str_('Paper'), np.str_('Accessories'), np.str_('Furnishings'), np.str_('Copiers'), np.str_('Storage')]",5
+OD-001572,"[np.str_('Chairs'), np.str_('Bookcases'), np.str_('Storage'), np.str_('Furnishings')]",4
+OD-001573,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Phones'), np.str_('Machines')]",4
+OD-001574,"[np.str_('Labels'), np.str_('Paper')]",2
+OD-001575,"[np.str_('Labels'), np.str_('Machines'), np.str_('Tables'), np.str_('Chairs')]",4
+OD-001576,"[np.str_('Binders'), np.str_('Bookcases')]",2
+OD-001577,"[np.str_('Storage'), np.str_('Machines')]",2
+OD-001578,"[np.str_('Labels'), np.str_('Binders'), np.str_('Bookcases'), np.str_('Accessories')]",4
+OD-001579,"[np.str_('Paper'), np.str_('Accessories'), np.str_('Phones'), np.str_('Copiers'), np.str_('Storage')]",5
+OD-001580,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Supplies'), np.str_('Tables')]",4
+OD-001581,"[np.str_('Accessories'), np.str_('Paper'), np.str_('Phones'), np.str_('Bookcases'), np.str_('Storage')]",5
+OD-001582,"[np.str_('Labels'), np.str_('Tables')]",2
+OD-001583,"[np.str_('Paper'), np.str_('Tables'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Storage')]",5
+OD-001584,"[np.str_('Labels'), np.str_('Supplies'), np.str_('Tables')]",3
+OD-001585,"[np.str_('Paper'), np.str_('Storage')]",2
+OD-001586,"[np.str_('Accessories'), np.str_('Supplies'), np.str_('Chairs')]",3
+OD-001587,"[np.str_('Bookcases'), np.str_('Paper')]",2
+OD-001588,"[np.str_('Chairs'), np.str_('Tables'), np.str_('Furnishings')]",3
+OD-001589,"[np.str_('Tables'), np.str_('Furnishings')]",2
+OD-001590,"[np.str_('Accessories'), np.str_('Supplies')]",2
+OD-001591,"[np.str_('Bookcases'), np.str_('Phones'), np.str_('Accessories'), np.str_('Chairs')]",4
+OD-001592,"[np.str_('Paper'), np.str_('Binders'), np.str_('Tables')]",3
+OD-001593,"[np.str_('Bookcases'), np.str_('Paper'), np.str_('Binders'), np.str_('Accessories')]",4
+OD-001594,"[np.str_('Chairs'), np.str_('Tables'), np.str_('Copiers'), np.str_('Storage'), np.str_('Supplies')]",5
+OD-001595,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Storage'), np.str_('Chairs')]",4
+OD-001596,"[np.str_('Labels'), np.str_('Storage')]",2
+OD-001597,"[np.str_('Chairs'), np.str_('Copiers'), np.str_('Phones'), np.str_('Furnishings')]",4
+OD-001598,"[np.str_('Bookcases'), np.str_('Paper'), np.str_('Supplies')]",3
+OD-001599,"[np.str_('Accessories'), np.str_('Tables'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Supplies')]",5
+OD-001600,"[np.str_('Phones'), np.str_('Labels'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Furnishings')]",5
+OD-001601,"[np.str_('Chairs'), np.str_('Tables'), np.str_('Bookcases'), np.str_('Copiers'), np.str_('Storage')]",5
+OD-001602,"[np.str_('Accessories'), np.str_('Storage'), np.str_('Bookcases'), np.str_('Tables')]",4
+OD-001603,"[np.str_('Labels'), np.str_('Accessories'), np.str_('Machines')]",3
+OD-001604,"[np.str_('Labels'), np.str_('Accessories')]",2
+OD-001605,"[np.str_('Accessories'), np.str_('Furnishings')]",2
+OD-001606,"[np.str_('Supplies'), np.str_('Copiers'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-001607,"[np.str_('Tables'), np.str_('Bookcases')]",2
+OD-001608,"[np.str_('Bookcases'), np.str_('Storage')]",2
+OD-001609,"[np.str_('Copiers'), np.str_('Phones')]",2
+OD-001610,"[np.str_('Tables'), np.str_('Storage')]",2
+OD-001611,"[np.str_('Labels'), np.str_('Supplies')]",2
+OD-001612,"[np.str_('Labels'), np.str_('Paper')]",2
+OD-001613,"[np.str_('Labels'), np.str_('Paper'), np.str_('Storage')]",3
+OD-001614,"[np.str_('Labels'), np.str_('Chairs')]",2
+OD-001615,"[np.str_('Labels'), np.str_('Tables'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-001616,"[np.str_('Phones'), np.str_('Paper'), np.str_('Storage'), np.str_('Binders')]",4
+OD-001617,"[np.str_('Tables'), np.str_('Chairs')]",2
+OD-001618,"[np.str_('Bookcases'), np.str_('Storage')]",2
+OD-001619,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Machines'), np.str_('Tables')]",4
+OD-001620,"[np.str_('Bookcases'), np.str_('Paper'), np.str_('Storage'), np.str_('Accessories')]",4
+OD-001621,"[np.str_('Binders'), np.str_('Storage'), np.str_('Machines')]",3
+OD-001622,"[np.str_('Tables'), np.str_('Binders'), np.str_('Furnishings')]",3
+OD-001623,"[np.str_('Labels'), np.str_('Bookcases'), np.str_('Storage'), np.str_('Machines')]",4
+OD-001624,"[np.str_('Phones'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Copiers'), np.str_('Storage')]",5
+OD-001625,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Binders'), np.str_('Chairs')]",4
+OD-001626,"[np.str_('Phones'), np.str_('Tables'), np.str_('Binders')]",3
+OD-001627,"[np.str_('Labels'), np.str_('Paper'), np.str_('Phones'), np.str_('Tables')]",4
+OD-001628,"[np.str_('Tables'), np.str_('Accessories'), np.str_('Furnishings')]",3
+OD-001629,"[np.str_('Bookcases'), np.str_('Binders'), np.str_('Chairs')]",3
+OD-001630,"[np.str_('Binders'), np.str_('Phones')]",2
+OD-001631,"[np.str_('Chairs'), np.str_('Binders'), np.str_('Furnishings'), np.str_('Copiers'), np.str_('Storage')]",5
+OD-001632,"[np.str_('Copiers'), np.str_('Phones')]",2
+OD-001633,"[np.str_('Furnishings'), np.str_('Paper'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-001634,"[np.str_('Labels'), np.str_('Accessories')]",2
+OD-001635,"[np.str_('Bookcases'), np.str_('Supplies')]",2
+OD-001636,"[np.str_('Bookcases'), np.str_('Copiers'), np.str_('Tables')]",3
+OD-001637,"[np.str_('Labels'), np.str_('Accessories'), np.str_('Supplies'), np.str_('Tables')]",4
+OD-001638,"[np.str_('Paper'), np.str_('Furnishings')]",2
+OD-001639,"[np.str_('Supplies'), np.str_('Furnishings')]",2
+OD-001640,"[np.str_('Labels'), np.str_('Supplies')]",2
+OD-001641,"[np.str_('Labels'), np.str_('Bookcases'), np.str_('Copiers'), np.str_('Binders')]",4
+OD-001642,"[np.str_('Tables'), np.str_('Binders'), np.str_('Supplies')]",3
+OD-001643,"[np.str_('Labels'), np.str_('Phones'), np.str_('Supplies'), np.str_('Accessories')]",4
+OD-001644,"[np.str_('Binders'), np.str_('Machines')]",2
+OD-001645,"[np.str_('Phones'), np.str_('Paper'), np.str_('Bookcases'), np.str_('Machines')]",4
+OD-001646,"[np.str_('Supplies'), np.str_('Chairs')]",2
+OD-001648,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Phones')]",3
+OD-001649,"[np.str_('Paper'), np.str_('Furnishings')]",2
+OD-001650,"[np.str_('Storage'), np.str_('Chairs')]",2
+OD-001651,"[np.str_('Tables'), np.str_('Bookcases'), np.str_('Furnishings')]",3
+OD-001652,"[np.str_('Paper'), np.str_('Binders')]",2
+OD-001653,"[np.str_('Chairs'), np.str_('Supplies'), np.str_('Furnishings')]",3
+OD-001654,"[np.str_('Tables'), np.str_('Storage'), np.str_('Machines')]",3
+OD-001656,"[np.str_('Phones'), np.str_('Bookcases'), np.str_('Storage'), np.str_('Accessories')]",4
+OD-001657,"[np.str_('Binders'), np.str_('Labels'), np.str_('Storage'), np.str_('Phones')]",4
+OD-001658,"[np.str_('Paper'), np.str_('Binders'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-001659,"[np.str_('Accessories'), np.str_('Bookcases'), np.str_('Machines')]",3
+OD-001660,"[np.str_('Accessories'), np.str_('Chairs'), np.str_('Bookcases'), np.str_('Copiers'), np.str_('Storage')]",5
+OD-001661,"[np.str_('Binders'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Furnishings'), np.str_('Supplies')]",5
+OD-001662,"[np.str_('Binders'), np.str_('Phones'), np.str_('Bookcases')]",3
+OD-001663,"[np.str_('Labels'), np.str_('Bookcases'), np.str_('Tables')]",3
+OD-001664,"[np.str_('Paper'), np.str_('Copiers')]",2
+OD-001665,"[np.str_('Paper'), np.str_('Chairs'), np.str_('Binders'), np.str_('Furnishings'), np.str_('Supplies')]",5
+OD-001666,"[np.str_('Bookcases'), np.str_('Storage')]",2
+OD-001667,"[np.str_('Chairs'), np.str_('Furnishings')]",2
+OD-001668,"[np.str_('Bookcases'), np.str_('Chairs')]",2
+OD-001669,"[np.str_('Supplies'), np.str_('Machines'), np.str_('Chairs')]",3
+OD-001670,"[np.str_('Accessories'), np.str_('Labels'), np.str_('Copiers'), np.str_('Storage'), np.str_('Supplies')]",5
+OD-001671,"[np.str_('Accessories'), np.str_('Bookcases'), np.str_('Furnishings')]",3
+OD-001672,"[np.str_('Chairs'), np.str_('Copiers'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-001673,"[np.str_('Accessories'), np.str_('Labels'), np.str_('Bookcases'), np.str_('Binders'), np.str_('Furnishings')]",5
+OD-001674,"[np.str_('Tables'), np.str_('Furnishings')]",2
+OD-001675,"[np.str_('Accessories'), np.str_('Tables'), np.str_('Machines'), np.str_('Furnishings'), np.str_('Copiers')]",5
+OD-001676,"[np.str_('Binders'), np.str_('Machines'), np.str_('Furnishings')]",3
+OD-001677,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Accessories')]",3
+OD-001678,"[np.str_('Bookcases'), np.str_('Copiers')]",2
+OD-001679,"[np.str_('Accessories'), np.str_('Storage')]",2
+OD-001680,"[np.str_('Tables'), np.str_('Chairs')]",2
+OD-001681,"[np.str_('Copiers'), np.str_('Storage')]",2
+OD-001682,"[np.str_('Accessories'), np.str_('Storage'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-001683,"[np.str_('Tables'), np.str_('Storage'), np.str_('Machines')]",3
+OD-001684,"[np.str_('Phones'), np.str_('Binders'), np.str_('Bookcases'), np.str_('Tables'), np.str_('Machines')]",5
+OD-001685,"[np.str_('Labels'), np.str_('Machines'), np.str_('Furnishings')]",3
+OD-001686,"[np.str_('Bookcases'), np.str_('Accessories')]",2
+OD-001687,"[np.str_('Tables'), np.str_('Storage'), np.str_('Chairs')]",3
+OD-001688,"[np.str_('Binders'), np.str_('Machines'), np.str_('Chairs')]",3
+OD-001689,"[np.str_('Furnishings'), np.str_('Labels'), np.str_('Chairs')]",3
+OD-001690,"[np.str_('Binders'), np.str_('Phones'), np.str_('Furnishings')]",3
+OD-001691,"[np.str_('Machines'), np.str_('Chairs')]",2
+OD-001692,"[np.str_('Labels'), np.str_('Binders')]",2
+OD-001693,"[np.str_('Tables'), np.str_('Phones')]",2
+OD-001694,"[np.str_('Accessories'), np.str_('Bookcases'), np.str_('Furnishings')]",3
+OD-001695,"[np.str_('Labels'), np.str_('Tables'), np.str_('Binders')]",3
+OD-001696,"[np.str_('Labels'), np.str_('Binders'), np.str_('Accessories'), np.str_('Furnishings')]",4
+OD-001697,"[np.str_('Labels'), np.str_('Tables'), np.str_('Chairs')]",3
+OD-001698,"[np.str_('Furnishings'), np.str_('Supplies'), np.str_('Chairs')]",3
+OD-001699,"[np.str_('Bookcases'), np.str_('Tables'), np.str_('Accessories')]",3
+OD-001700,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Phones')]",3
+OD-001701,"[np.str_('Accessories'), np.str_('Furnishings')]",2
+OD-001702,"[np.str_('Copiers'), np.str_('Phones'), np.str_('Chairs')]",3
+OD-001703,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Machines'), np.str_('Accessories')]",4
+OD-001704,"[np.str_('Bookcases'), np.str_('Storage')]",2
+OD-001705,"[np.str_('Chairs'), np.str_('Tables'), np.str_('Furnishings')]",3
+OD-001706,"[np.str_('Accessories'), np.str_('Machines')]",2
+OD-001707,"[np.str_('Paper'), np.str_('Tables'), np.str_('Machines'), np.str_('Furnishings'), np.str_('Storage')]",5
+OD-001708,"[np.str_('Storage'), np.str_('Furnishings')]",2
+OD-001709,"[np.str_('Copiers'), np.str_('Phones'), np.str_('Chairs')]",3
+OD-001710,"[np.str_('Paper'), np.str_('Supplies')]",2
+OD-001711,"[np.str_('Labels'), np.str_('Binders'), np.str_('Furnishings')]",3
+OD-001712,"[np.str_('Accessories'), np.str_('Storage'), np.str_('Chairs')]",3
+OD-001713,"[np.str_('Accessories'), np.str_('Phones')]",2
+OD-001714,"[np.str_('Tables'), np.str_('Copiers')]",2
+OD-001715,"[np.str_('Paper'), np.str_('Furnishings')]",2
+OD-001716,"[np.str_('Phones'), np.str_('Chairs')]",2
+OD-001717,"[np.str_('Tables'), np.str_('Storage'), np.str_('Phones')]",3
+OD-001718,"[np.str_('Bookcases'), np.str_('Copiers'), np.str_('Tables')]",3
+OD-001719,"[np.str_('Binders'), np.str_('Supplies')]",2
+OD-001720,"[np.str_('Storage'), np.str_('Phones'), np.str_('Supplies'), np.str_('Chairs')]",4
+OD-001721,"[np.str_('Binders'), np.str_('Accessories')]",2
+OD-001722,"[np.str_('Labels'), np.str_('Phones'), np.str_('Chairs')]",3
+OD-001723,"[np.str_('Paper'), np.str_('Supplies'), np.str_('Machines')]",3
+OD-001724,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Machines')]",3
+OD-001725,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Accessories')]",3
+OD-001726,"[np.str_('Tables'), np.str_('Supplies'), np.str_('Accessories')]",3
+OD-001727,"[np.str_('Accessories'), np.str_('Chairs'), np.str_('Machines'), np.str_('Furnishings'), np.str_('Supplies')]",5
+OD-001728,"[np.str_('Paper'), np.str_('Binders'), np.str_('Bookcases'), np.str_('Storage'), np.str_('Supplies')]",5
+OD-001729,"[np.str_('Labels'), np.str_('Binders'), np.str_('Bookcases'), np.str_('Furnishings')]",4
+OD-001730,"[np.str_('Tables'), np.str_('Storage')]",2
+OD-001731,"[np.str_('Paper'), np.str_('Tables'), np.str_('Chairs')]",3
+OD-001732,"[np.str_('Binders'), np.str_('Storage'), np.str_('Furnishings')]",3
+OD-001733,"[np.str_('Labels'), np.str_('Storage'), np.str_('Supplies'), np.str_('Furnishings')]",4
+OD-001734,"[np.str_('Tables'), np.str_('Binders'), np.str_('Accessories'), np.str_('Chairs')]",4
+OD-001735,"[np.str_('Labels'), np.str_('Storage')]",2
+OD-001736,"[np.str_('Labels'), np.str_('Paper'), np.str_('Furnishings')]",3
+OD-001737,"[np.str_('Binders'), np.str_('Storage'), np.str_('Tables')]",3
+OD-001738,"[np.str_('Paper'), np.str_('Furnishings')]",2
+OD-001739,"[np.str_('Storage'), np.str_('Machines'), np.str_('Chairs')]",3
+OD-001741,"[np.str_('Labels'), np.str_('Phones'), np.str_('Machines')]",3
+OD-001742,"[np.str_('Accessories'), np.str_('Storage'), np.str_('Chairs')]",3
+OD-001743,"[np.str_('Binders'), np.str_('Paper'), np.str_('Storage'), np.str_('Furnishings')]",4
+OD-001744,"[np.str_('Accessories'), np.str_('Machines')]",2
+OD-001745,"[np.str_('Labels'), np.str_('Accessories'), np.str_('Chairs')]",3
+OD-001746,"[np.str_('Accessories'), np.str_('Phones')]",2
+OD-001747,"[np.str_('Chairs'), np.str_('Accessories'), np.str_('Furnishings')]",3
+OD-001748,"[np.str_('Paper'), np.str_('Storage'), np.str_('Bookcases'), np.str_('Supplies')]",4
+OD-001749,"[np.str_('Bookcases'), np.str_('Phones'), np.str_('Furnishings')]",3
+OD-001750,"[np.str_('Binders'), np.str_('Bookcases'), np.str_('Storage'), np.str_('Furnishings')]",4
+OD-001751,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Machines')]",3
+OD-001752,"[np.str_('Copiers'), np.str_('Chairs')]",2
+OD-001753,"[np.str_('Labels'), np.str_('Tables'), np.str_('Bookcases'), np.str_('Furnishings'), np.str_('Storage')]",5
+OD-001754,"[np.str_('Paper'), np.str_('Bookcases'), np.str_('Tables'), np.str_('Machines'), np.str_('Supplies')]",5
+OD-001755,"[np.str_('Furnishings'), np.str_('Bookcases'), np.str_('Copiers'), np.str_('Chairs')]",4
+OD-001756,"[np.str_('Accessories'), np.str_('Bookcases'), np.str_('Tables'), np.str_('Binders'), np.str_('Storage')]",5
+OD-001757,"[np.str_('Paper'), np.str_('Accessories'), np.str_('Phones'), np.str_('Chairs'), np.str_('Tables')]",5
+OD-001759,"[np.str_('Machines'), np.str_('Furnishings')]",2
+OD-001760,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Phones'), np.str_('Tables')]",4
+OD-001761,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Phones')]",3
+OD-001762,"[np.str_('Binders'), np.str_('Phones')]",2
+OD-001763,"[np.str_('Labels'), np.str_('Machines'), np.str_('Chairs')]",3
+OD-001764,"[np.str_('Machines'), np.str_('Furnishings')]",2
+OD-001765,"[np.str_('Phones'), np.str_('Storage'), np.str_('Chairs')]",3
+OD-001766,"[np.str_('Bookcases'), np.str_('Storage'), np.str_('Tables')]",3
+OD-001767,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Phones'), np.str_('Furnishings')]",4
+OD-001768,"[np.str_('Storage'), np.str_('Machines')]",2
+OD-001769,"[np.str_('Paper'), np.str_('Accessories'), np.str_('Chairs'), np.str_('Bookcases'), np.str_('Binders')]",5
+OD-001770,"[np.str_('Binders'), np.str_('Storage'), np.str_('Accessories'), np.str_('Chairs')]",4
+OD-001771,"[np.str_('Tables'), np.str_('Paper')]",2
+OD-001772,"[np.str_('Binders'), np.str_('Paper'), np.str_('Phones'), np.str_('Chairs')]",4
+OD-001773,"[np.str_('Paper'), np.str_('Bookcases')]",2
+OD-001774,"[np.str_('Paper'), np.str_('Storage'), np.str_('Furnishings')]",3
+OD-001775,"[np.str_('Binders'), np.str_('Bookcases'), np.str_('Phones'), np.str_('Chairs')]",4
+OD-001776,"[np.str_('Chairs'), np.str_('Labels'), np.str_('Copiers'), np.str_('Storage'), np.str_('Supplies')]",5
+OD-001777,"[np.str_('Paper'), np.str_('Storage'), np.str_('Furnishings')]",3
+OD-001778,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Supplies'), np.str_('Chairs')]",4
+OD-001779,"[np.str_('Copiers'), np.str_('Supplies'), np.str_('Chairs')]",3
+OD-001780,"[np.str_('Tables'), np.str_('Storage'), np.str_('Accessories')]",3
+OD-001781,"[np.str_('Tables'), np.str_('Storage'), np.str_('Furnishings')]",3
+OD-001782,"[np.str_('Paper'), np.str_('Binders'), np.str_('Accessories'), np.str_('Chairs')]",4
+OD-001783,"[np.str_('Tables'), np.str_('Paper'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-001784,"[np.str_('Binders'), np.str_('Bookcases'), np.str_('Furnishings')]",3
+OD-001785,"[np.str_('Bookcases'), np.str_('Supplies')]",2
+OD-001786,"[np.str_('Bookcases'), np.str_('Machines'), np.str_('Furnishings')]",3
+OD-001787,"[np.str_('Tables'), np.str_('Paper'), np.str_('Binders'), np.str_('Machines')]",4
+OD-001788,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Paper')]",3
+OD-001789,"[np.str_('Bookcases'), np.str_('Phones'), np.str_('Tables')]",3
+OD-001790,"[np.str_('Tables'), np.str_('Storage'), np.str_('Supplies'), np.str_('Accessories')]",4
+OD-001791,"[np.str_('Tables'), np.str_('Bookcases'), np.str_('Supplies')]",3
+OD-001792,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-001793,"[np.str_('Copiers'), np.str_('Machines'), np.str_('Furnishings')]",3
+OD-001794,"[np.str_('Chairs'), np.str_('Binders'), np.str_('Tables'), np.str_('Storage'), np.str_('Supplies')]",5
+OD-001795,"[np.str_('Binders'), np.str_('Labels'), np.str_('Paper'), np.str_('Bookcases')]",4
+OD-001796,"[np.str_('Labels'), np.str_('Supplies')]",2
+OD-001797,"[np.str_('Labels'), np.str_('Phones'), np.str_('Accessories'), np.str_('Furnishings')]",4
+OD-001798,"[np.str_('Machines'), np.str_('Furnishings')]",2
+OD-001799,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Bookcases')]",3
+OD-001800,"[np.str_('Paper'), np.str_('Storage'), np.str_('Phones'), np.str_('Chairs')]",4
+OD-001801,"[np.str_('Tables'), np.str_('Paper'), np.str_('Machines'), np.str_('Accessories')]",4
+OD-001802,"[np.str_('Labels'), np.str_('Tables'), np.str_('Accessories')]",3
+OD-001803,"[np.str_('Chairs'), np.str_('Binders'), np.str_('Tables'), np.str_('Storage'), np.str_('Supplies')]",5
+OD-001804,"[np.str_('Chairs'), np.str_('Phones'), np.str_('Furnishings')]",3
+OD-001805,"[np.str_('Chairs'), np.str_('Labels'), np.str_('Tables'), np.str_('Copiers'), np.str_('Storage')]",5
+OD-001806,"[np.str_('Accessories'), np.str_('Bookcases')]",2
+OD-001807,"[np.str_('Phones'), np.str_('Labels'), np.str_('Binders'), np.str_('Supplies')]",4
+OD-001808,"[np.str_('Labels'), np.str_('Phones')]",2
+OD-001809,"[np.str_('Bookcases'), np.str_('Storage'), np.str_('Supplies')]",3
+OD-001810,"[np.str_('Supplies'), np.str_('Copiers'), np.str_('Machines'), np.str_('Tables')]",4
+OD-001811,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Phones'), np.str_('Chairs')]",4
+OD-001812,"[np.str_('Chairs'), np.str_('Labels'), np.str_('Supplies'), np.str_('Furnishings')]",4
+OD-001813,"[np.str_('Binders'), np.str_('Furnishings')]",2
+OD-001814,"[np.str_('Labels'), np.str_('Tables'), np.str_('Copiers')]",3
+OD-001815,"[np.str_('Labels'), np.str_('Bookcases'), np.str_('Chairs')]",3
+OD-001816,"[np.str_('Labels'), np.str_('Phones'), np.str_('Supplies')]",3
+OD-001817,"[np.str_('Phones'), np.str_('Machines')]",2
+OD-001818,"[np.str_('Phones'), np.str_('Chairs'), np.str_('Machines'), np.str_('Furnishings'), np.str_('Copiers')]",5
+OD-001819,"[np.str_('Storage'), np.str_('Supplies')]",2
+OD-001820,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Bookcases'), np.str_('Furnishings')]",4
+OD-001821,"[np.str_('Labels'), np.str_('Accessories'), np.str_('Furnishings')]",3
+OD-001822,"[np.str_('Labels'), np.str_('Paper'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-001823,"[np.str_('Bookcases'), np.str_('Supplies'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-001824,"[np.str_('Labels'), np.str_('Phones'), np.str_('Accessories'), np.str_('Furnishings')]",4
+OD-001825,"[np.str_('Storage'), np.str_('Copiers'), np.str_('Phones'), np.str_('Chairs')]",4
+OD-001826,"[np.str_('Phones'), np.str_('Binders'), np.str_('Storage')]",3
+OD-001829,"[np.str_('Tables'), np.str_('Storage'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-001830,"[np.str_('Copiers'), np.str_('Machines')]",2
+OD-001831,"[np.str_('Labels'), np.str_('Tables'), np.str_('Chairs')]",3
+OD-001832,"[np.str_('Furnishings'), np.str_('Storage'), np.str_('Chairs')]",3
+OD-001833,"[np.str_('Chairs'), np.str_('Binders'), np.str_('Furnishings')]",3
+OD-001834,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Bookcases')]",3
+OD-001835,"[np.str_('Paper'), np.str_('Accessories'), np.str_('Chairs'), np.str_('Binders'), np.str_('Storage')]",5
+OD-001836,"[np.str_('Labels'), np.str_('Binders'), np.str_('Machines'), np.str_('Accessories')]",4
+OD-001837,"[np.str_('Phones'), np.str_('Furnishings')]",2
+OD-001838,"[np.str_('Accessories'), np.str_('Supplies')]",2
+OD-001839,"[np.str_('Machines'), np.str_('Bookcases'), np.str_('Phones'), np.str_('Supplies')]",4
+OD-001840,"[np.str_('Labels'), np.str_('Binders'), np.str_('Copiers'), np.str_('Chairs')]",4
+OD-001841,"[np.str_('Bookcases'), np.str_('Copiers'), np.str_('Storage'), np.str_('Machines')]",4
+OD-001842,"[np.str_('Labels'), np.str_('Accessories'), np.str_('Tables')]",3
+OD-001843,"[np.str_('Paper'), np.str_('Bookcases'), np.str_('Tables'), np.str_('Furnishings'), np.str_('Copiers')]",5
+OD-001844,"[np.str_('Furnishings'), np.str_('Accessories'), np.str_('Paper'), np.str_('Chairs')]",4
+OD-001845,"[np.str_('Machines'), np.str_('Labels'), np.str_('Paper'), np.str_('Supplies')]",4
+OD-001846,"[np.str_('Paper'), np.str_('Accessories'), np.str_('Copiers'), np.str_('Storage'), np.str_('Supplies')]",5
+OD-001847,"[np.str_('Bookcases'), np.str_('Paper'), np.str_('Tables'), np.str_('Furnishings')]",4
+OD-001848,"[np.str_('Labels'), np.str_('Binders'), np.str_('Copiers'), np.str_('Bookcases')]",4
+OD-001849,"[np.str_('Bookcases'), np.str_('Machines'), np.str_('Accessories'), np.str_('Chairs')]",4
+OD-001850,"[np.str_('Phones'), np.str_('Tables'), np.str_('Storage'), np.str_('Binders')]",4
+OD-001851,"[np.str_('Furnishings'), np.str_('Phones'), np.str_('Storage'), np.str_('Chairs')]",4
+OD-001852,"[np.str_('Bookcases'), np.str_('Chairs')]",2
+OD-001853,"[np.str_('Paper'), np.str_('Storage'), np.str_('Supplies')]",3
+OD-001854,"[np.str_('Phones'), np.str_('Furnishings')]",2
+OD-001855,"[np.str_('Chairs'), np.str_('Binders'), np.str_('Storage'), np.str_('Furnishings')]",4
+OD-001856,"[np.str_('Labels'), np.str_('Machines')]",2
+OD-001858,"[np.str_('Binders'), np.str_('Accessories'), np.str_('Phones'), np.str_('Tables')]",4
+OD-001859,"[np.str_('Labels'), np.str_('Tables'), np.str_('Storage'), np.str_('Machines')]",4
+OD-001860,"[np.str_('Copiers'), np.str_('Phones'), np.str_('Chairs')]",3
+OD-001861,"[np.str_('Bookcases'), np.str_('Tables'), np.str_('Chairs')]",3
+OD-001862,"[np.str_('Binders'), np.str_('Furnishings')]",2
+OD-001863,"[np.str_('Chairs'), np.str_('Labels'), np.str_('Furnishings')]",3
+OD-001864,"[np.str_('Labels'), np.str_('Paper'), np.str_('Storage'), np.str_('Chairs')]",4
+OD-001865,"[np.str_('Copiers'), np.str_('Phones'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-001866,"[np.str_('Bookcases'), np.str_('Chairs')]",2
+OD-001867,"[np.str_('Tables'), np.str_('Binders')]",2
+OD-001868,"[np.str_('Phones'), np.str_('Furnishings')]",2
+OD-001869,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Chairs')]",3
+OD-001870,"[np.str_('Binders'), np.str_('Paper'), np.str_('Bookcases'), np.str_('Accessories')]",4
+OD-001871,"[np.str_('Labels'), np.str_('Accessories'), np.str_('Copiers')]",3
+OD-001872,"[np.str_('Labels'), np.str_('Paper'), np.str_('Machines')]",3
+OD-001873,"[np.str_('Accessories'), np.str_('Paper'), np.str_('Bookcases'), np.str_('Furnishings')]",4
+OD-001874,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Chairs')]",3
+OD-001875,"[np.str_('Tables'), np.str_('Paper'), np.str_('Accessories')]",3
+OD-001876,"[np.str_('Bookcases'), np.str_('Copiers')]",2
+OD-001877,"[np.str_('Accessories'), np.str_('Storage'), np.str_('Supplies')]",3
+OD-001878,"[np.str_('Binders'), np.str_('Copiers')]",2
+OD-001879,"[np.str_('Binders'), np.str_('Storage'), np.str_('Phones'), np.str_('Furnishings')]",4
+OD-001880,"[np.str_('Paper'), np.str_('Binders'), np.str_('Tables'), np.str_('Machines'), np.str_('Copiers')]",5
+OD-001881,"[np.str_('Tables'), np.str_('Phones'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-001882,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Storage'), np.str_('Chairs')]",4
+OD-001883,"[np.str_('Chairs'), np.str_('Phones'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-001884,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Binders'), np.str_('Furnishings')]",4
+OD-001885,"[np.str_('Labels'), np.str_('Bookcases'), np.str_('Paper'), np.str_('Phones')]",4
+OD-001886,"[np.str_('Labels'), np.str_('Paper'), np.str_('Binders'), np.str_('Tables')]",4
+OD-001887,"[np.str_('Binders'), np.str_('Storage'), np.str_('Phones')]",3
+OD-001888,"[np.str_('Tables'), np.str_('Copiers')]",2
+OD-001889,"[np.str_('Phones'), np.str_('Supplies'), np.str_('Chairs')]",3
+OD-001890,"[np.str_('Chairs'), np.str_('Bookcases'), np.str_('Machines'), np.str_('Copiers'), np.str_('Storage')]",5
+OD-001891,"[np.str_('Binders'), np.str_('Paper')]",2
+OD-001892,"[np.str_('Copiers'), np.str_('Chairs')]",2
+OD-001893,"[np.str_('Accessories'), np.str_('Storage'), np.str_('Chairs')]",3
+OD-001894,"[np.str_('Supplies'), np.str_('Storage'), np.str_('Machines'), np.str_('Tables')]",4
+OD-001895,"[np.str_('Labels'), np.str_('Binders'), np.str_('Machines')]",3
+OD-001896,"[np.str_('Bookcases'), np.str_('Machines'), np.str_('Tables'), np.str_('Chairs')]",4
+OD-001897,"[np.str_('Machines'), np.str_('Tables'), np.str_('Supplies')]",3
+OD-001898,"[np.str_('Bookcases'), np.str_('Binders'), np.str_('Machines')]",3
+OD-001899,"[np.str_('Copiers'), np.str_('Phones'), np.str_('Supplies')]",3
+OD-001900,"[np.str_('Tables'), np.str_('Bookcases'), np.str_('Chairs')]",3
+OD-001901,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Chairs')]",3
+OD-001902,"[np.str_('Binders'), np.str_('Copiers'), np.str_('Phones'), np.str_('Furnishings')]",4
+OD-001903,"[np.str_('Labels'), np.str_('Storage'), np.str_('Supplies')]",3
+OD-001904,"[np.str_('Tables'), np.str_('Phones')]",2
+OD-001905,"[np.str_('Phones'), np.str_('Furnishings')]",2
+OD-001906,"[np.str_('Bookcases'), np.str_('Machines')]",2
+OD-001907,"[np.str_('Binders'), np.str_('Bookcases'), np.str_('Phones'), np.str_('Supplies')]",4
+OD-001908,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Machines')]",3
+OD-001909,"[np.str_('Furnishings'), np.str_('Labels'), np.str_('Chairs')]",3
+OD-001910,"[np.str_('Bookcases'), np.str_('Binders'), np.str_('Machines')]",3
+OD-001911,"[np.str_('Paper'), np.str_('Binders'), np.str_('Chairs')]",3
+OD-001912,"[np.str_('Accessories'), np.str_('Storage')]",2
+OD-001913,"[np.str_('Bookcases'), np.str_('Chairs')]",2
+OD-001914,"[np.str_('Copiers'), np.str_('Phones')]",2
+OD-001915,"[np.str_('Labels'), np.str_('Tables')]",2
+OD-001916,"[np.str_('Bookcases'), np.str_('Machines')]",2
+OD-001917,"[np.str_('Bookcases'), np.str_('Copiers'), np.str_('Accessories'), np.str_('Chairs')]",4
+OD-001918,"[np.str_('Paper'), np.str_('Accessories'), np.str_('Binders'), np.str_('Bookcases'), np.str_('Machines')]",5
+OD-001919,"[np.str_('Paper'), np.str_('Labels'), np.str_('Furnishings'), np.str_('Copiers'), np.str_('Storage')]",5
+OD-001920,"[np.str_('Labels'), np.str_('Paper'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-001921,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Machines'), np.str_('Chairs')]",4
+OD-001922,"[np.str_('Binders'), np.str_('Labels'), np.str_('Accessories'), np.str_('Phones')]",4
+OD-001923,"[np.str_('Phones'), np.str_('Chairs'), np.str_('Storage'), np.str_('Furnishings')]",4
+OD-001924,"[np.str_('Storage'), np.str_('Supplies')]",2
+OD-001925,"[np.str_('Labels'), np.str_('Tables'), np.str_('Bookcases'), np.str_('Supplies')]",4
+OD-001926,"[np.str_('Paper'), np.str_('Storage'), np.str_('Binders')]",3
+OD-001927,"[np.str_('Tables'), np.str_('Storage'), np.str_('Furnishings')]",3
+OD-001928,"[np.str_('Tables'), np.str_('Copiers')]",2
+OD-001930,"[np.str_('Phones'), np.str_('Machines')]",2
+OD-001931,"[np.str_('Labels'), np.str_('Binders'), np.str_('Supplies')]",3
+OD-001932,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Bookcases'), np.str_('Furnishings'), np.str_('Copiers')]",5
+OD-001933,"[np.str_('Copiers'), np.str_('Phones')]",2
+OD-001934,"[np.str_('Chairs'), np.str_('Storage'), np.str_('Furnishings')]",3
+OD-001935,"[np.str_('Tables'), np.str_('Bookcases'), np.str_('Supplies')]",3
+OD-001936,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Phones'), np.str_('Machines')]",4
+OD-001937,"[np.str_('Tables'), np.str_('Machines'), np.str_('Furnishings')]",3
+OD-001938,"[np.str_('Tables'), np.str_('Copiers'), np.str_('Machines'), np.str_('Paper')]",4
+OD-001939,"[np.str_('Paper'), np.str_('Chairs'), np.str_('Bookcases'), np.str_('Furnishings'), np.str_('Supplies')]",5
+OD-001940,"[np.str_('Binders'), np.str_('Tables'), np.str_('Paper'), np.str_('Phones')]",4
+OD-001941,"[np.str_('Binders'), np.str_('Bookcases'), np.str_('Phones')]",3
+OD-001942,"[np.str_('Accessories'), np.str_('Copiers'), np.str_('Machines')]",3
+OD-001943,"[np.str_('Bookcases'), np.str_('Copiers'), np.str_('Supplies'), np.str_('Chairs')]",4
+OD-001944,"[np.str_('Binders'), np.str_('Storage'), np.str_('Chairs')]",3
+OD-001945,"[np.str_('Copiers'), np.str_('Furnishings')]",2
+OD-001946,"[np.str_('Accessories'), np.str_('Supplies'), np.str_('Chairs')]",3
+OD-001947,"[np.str_('Bookcases'), np.str_('Copiers'), np.str_('Chairs')]",3
+OD-001948,"[np.str_('Accessories'), np.str_('Storage'), np.str_('Supplies'), np.str_('Bookcases')]",4
+OD-001949,"[np.str_('Phones'), np.str_('Bookcases'), np.str_('Binders'), np.str_('Tables'), np.str_('Copiers')]",5
+OD-001951,"[np.str_('Machines'), np.str_('Furnishings')]",2
+OD-001952,"[np.str_('Binders'), np.str_('Accessories'), np.str_('Storage'), np.str_('Tables')]",4
+OD-001953,"[np.str_('Labels'), np.str_('Bookcases'), np.str_('Phones')]",3
+OD-001955,"[np.str_('Binders'), np.str_('Tables'), np.str_('Copiers'), np.str_('Bookcases')]",4
+OD-001956,"[np.str_('Phones'), np.str_('Machines')]",2
+OD-001957,"[np.str_('Binders'), np.str_('Labels'), np.str_('Storage'), np.str_('Machines')]",4
+OD-001958,"[np.str_('Labels'), np.str_('Phones'), np.str_('Supplies'), np.str_('Tables')]",4
+OD-001959,"[np.str_('Copiers'), np.str_('Machines'), np.str_('Chairs')]",3
+OD-001960,"[np.str_('Accessories'), np.str_('Bookcases'), np.str_('Supplies'), np.str_('Tables')]",4
+OD-001961,"[np.str_('Accessories'), np.str_('Chairs'), np.str_('Machines'), np.str_('Storage'), np.str_('Supplies')]",5
+OD-001962,"[np.str_('Phones'), np.str_('Labels'), np.str_('Binders'), np.str_('Accessories')]",4
+OD-001963,"[np.str_('Phones'), np.str_('Chairs')]",2
+OD-001964,"[np.str_('Labels'), np.str_('Supplies')]",2
+OD-001965,"[np.str_('Labels'), np.str_('Copiers')]",2
+OD-001966,"[np.str_('Paper'), np.str_('Supplies'), np.str_('Accessories'), np.str_('Chairs')]",4
+OD-001967,"[np.str_('Storage'), np.str_('Tables'), np.str_('Copiers'), np.str_('Bookcases')]",4
+OD-001968,"[np.str_('Bookcases'), np.str_('Tables'), np.str_('Chairs')]",3
+OD-001969,"[np.str_('Paper'), np.str_('Phones'), np.str_('Labels'), np.str_('Tables'), np.str_('Storage')]",5
+OD-001970,"[np.str_('Bookcases'), np.str_('Phones'), np.str_('Chairs')]",3
+OD-001971,"[np.str_('Accessories'), np.str_('Phones'), np.str_('Furnishings')]",3
+OD-001972,"[np.str_('Labels'), np.str_('Tables'), np.str_('Phones')]",3
+OD-001973,"[np.str_('Accessories'), np.str_('Machines')]",2
+OD-001974,"[np.str_('Bookcases'), np.str_('Binders')]",2
+OD-001975,"[np.str_('Binders'), np.str_('Storage'), np.str_('Accessories'), np.str_('Chairs')]",4
+OD-001976,"[np.str_('Bookcases'), np.str_('Phones'), np.str_('Machines')]",3
+OD-001977,"[np.str_('Paper'), np.str_('Copiers')]",2
+OD-001978,"[np.str_('Tables'), np.str_('Furnishings')]",2
+OD-001979,"[np.str_('Labels'), np.str_('Copiers'), np.str_('Phones'), np.str_('Accessories')]",4
+OD-001980,"[np.str_('Binders'), np.str_('Accessories')]",2
+OD-001981,"[np.str_('Accessories'), np.str_('Supplies')]",2
+OD-001982,"[np.str_('Phones'), np.str_('Tables'), np.str_('Bookcases'), np.str_('Supplies')]",4
+OD-001983,"[np.str_('Labels'), np.str_('Accessories')]",2
+OD-001984,"[np.str_('Bookcases'), np.str_('Machines')]",2
+OD-001985,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Supplies'), np.str_('Furnishings')]",4
+OD-001986,"[np.str_('Phones'), np.str_('Labels'), np.str_('Storage')]",3
+OD-001987,"[np.str_('Accessories'), np.str_('Machines')]",2
+OD-001988,"[np.str_('Accessories'), np.str_('Labels'), np.str_('Binders'), np.str_('Bookcases'), np.str_('Copiers')]",5
+OD-001989,"[np.str_('Storage'), np.str_('Phones')]",2
+OD-001990,"[np.str_('Binders'), np.str_('Accessories')]",2
+OD-001991,"[np.str_('Paper'), np.str_('Bookcases')]",2
+OD-001992,"[np.str_('Binders'), np.str_('Accessories')]",2
+OD-001993,"[np.str_('Paper'), np.str_('Copiers'), np.str_('Supplies'), np.str_('Furnishings')]",4
+OD-001994,"[np.str_('Bookcases'), np.str_('Binders')]",2
+OD-001995,"[np.str_('Labels'), np.str_('Phones'), np.str_('Tables'), np.str_('Furnishings')]",4
+OD-001996,"[np.str_('Binders'), np.str_('Phones'), np.str_('Machines'), np.str_('Furnishings')]",4
+OD-001997,"[np.str_('Paper'), np.str_('Bookcases'), np.str_('Supplies'), np.str_('Accessories')]",4
+OD-001998,"[np.str_('Bookcases'), np.str_('Chairs')]",2
+OD-001999,"[np.str_('Accessories'), np.str_('Machines')]",2
+OD-002000,"[np.str_('Labels'), np.str_('Bookcases'), np.str_('Copiers'), np.str_('Chairs')]",4
